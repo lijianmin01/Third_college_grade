@@ -1,26 +1,25 @@
-#include<stdio.h>
+//问题 BJ: 【C语言训练】字符串正反连接
 
-int main() {
-    int nums[4],i,j;
-    for ( i = 0; i < 4; i++)
+#include<stdio.h>
+#include<string.h>
+
+int main(){
+    char strs[150];
+    char strs1[150];
+    gets(strs);
+    int i,nums=0;
+    for ( i = 0; strs[i]!='\0'; i++)
     {
-        scanf("%d",&nums[i]);
+        nums++;
+        strs1[i]=strs[i];
     }
-    for ( i = 0; i < 3; i++)
+    int cnt=nums;
+    for ( i = nums-1; i>=0; i--)
     {
-        for ( j = 0; j < 3-i; j++)
-        {
-            if(nums[j]>nums[j+1]){
-                int cnt=nums[j+1];
-                nums[j+1]=nums[j];
-                nums[j]=cnt;
-            }
-        }
+        strs1[cnt++]=strs[i];
     }
-    for ( i = 0; i < 4; i++)
-    {
-        printf("%d ",nums[i]);
-    }
+    strs1[2*nums]='\0';
+    puts(strs1);
     
     return 0;
 }
