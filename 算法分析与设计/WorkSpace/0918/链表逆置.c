@@ -38,11 +38,10 @@ Node * reverseList1(Node * list){
         return NULL;
     }
 
+    Node * newNode = NULL;
     Node * pre =NULL;
     Node * next = NULL;
     Node * cur=list;
-
-    Node * newNode = NULL;
 
     while(cur!=NULL){
         next = cur->next;
@@ -76,6 +75,8 @@ int main() {
     insertList(&list,100);
     insertList(&list,200);
     insertList(&list,300);
+    insertList(&list, 400);
+    insertList(&list, 500);
     My_print_list(list);
     reverseList1(list);
     My_print_list(list);
