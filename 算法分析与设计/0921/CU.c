@@ -3,9 +3,9 @@
 int main(){
     char st1[3],st2[3],st3[3];
     int i,j;
-    getlines(st1);
-    getlines(st2);
-    getlines(st3);
+    gets(st1);
+    gets(st2);
+    gets(st3);
     
 
     for ( i = 0; i < 3; i++)
