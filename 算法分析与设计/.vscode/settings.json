@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "cmath": "c",
-        "CE.C": "cpp"
+        "CE.C": "cpp",
+        "deque": "cpp",
+        "map": "cpp",
+        "vector": "cpp",
+        "xtree": "cpp"
     }
 }
