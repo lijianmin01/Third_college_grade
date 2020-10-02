@@ -1,0 +1,419 @@
+,PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Family_Size,Title
+0,892,3,"Kelly, Mr. James",male,adlut,small,small,330911,rich,yes,Q,small,Mr
+1,893,3,"Wilkes, Mrs. James (Ellen Needs)",female,adlut,middle,small,363272,rich,yes,S,mid,Mrs
+2,894,2,"Myles, Mr. Thomas Francis",male,old,small,small,240276,rich,yes,Q,small,Mr
+3,895,3,"Wirz, Mr. Albert",male,youth,small,small,315154,rich,yes,S,small,Mr
+4,896,3,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,youth,middle,middle,3101298,rich,yes,S,mid,Mrs
+5,897,3,"Svensson, Mr. Johan Cervin",male,youth,small,small,7538,rich,yes,S,small,Mr
+6,898,3,"Connolly, Miss. Kate",female,adlut,small,small,330972,rich,yes,Q,small,Miss
+7,899,2,"Caldwell, Mr. Albert Francis",male,youth,middle,middle,248738,rich,yes,S,mid,Mr
+8,900,3,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,youth,small,small,2657,rich,yes,C,small,Mrs
+9,901,3,"Davies, Mr. John Samuel",male,youth,middle,small,A/4 48871,rich,yes,S,mid,Mr
+10,902,3,"Ilieff, Mr. Ylio",male,youth,small,small,349220,rich,yes,S,small,Mr
+11,903,1,"Jones, Mr. Charles Cresson",male,adlut,small,small,694,rich,yes,S,small,Mr
+12,904,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,youth,middle,small,21228,rich,yes,S,mid,Mrs
+13,905,2,"Howard, Mr. Benjamin",male,old,middle,small,24065,rich,yes,S,mid,Mr
+14,906,1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,adlut,middle,small,W.E.P. 5734,rich,yes,S,mid,Mrs
+15,907,2,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,youth,middle,small,SC/PARIS 2167,rich,yes,C,mid,Mrs
+16,908,2,"Keane, Mr. Daniel",male,adlut,small,small,233734,rich,yes,Q,small,Mr
+17,909,3,"Assaf, Mr. Gerios",male,youth,small,small,2692,rich,yes,C,small,Mr
+18,910,3,"Ilmakangas, Miss. Ida Livija",female,youth,middle,small,STON/O2. 3101270,rich,yes,S,mid,Miss
+19,911,3,"Assaf Khalil, Mrs. Mariana (Miriam"")""",female,adlut,small,small,2696,rich,yes,C,small,Mrs
+20,912,1,"Rothschild, Mr. Martin",male,adlut,middle,small,PC 17603,rich,yes,C,mid,Mr
+21,913,3,"Olsen, Master. Artur Karl",male,child,small,middle,C 17368,rich,yes,S,mid,Master
+22,914,1,"Flegenheim, Mrs. Alfred (Antoinette)",female,adlut,small,small,PC 17598,rich,yes,S,small,Mrs
+23,915,1,"Williams, Mr. Richard Norris II",male,youth,small,middle,PC 17597,rich,yes,C,mid,Mr
+24,916,1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,adlut,middle,middle,PC 17608,rich,yes,C,big,Mrs
+25,917,3,"Robins, Mr. Alexander A",male,adlut,middle,small,A/5. 3337,rich,yes,S,mid,Mr
+26,918,1,"Ostby, Miss. Helene Ragnhild",female,youth,small,middle,113509,rich,yes,C,mid,Miss
+27,919,3,"Daher, Mr. Shedid",male,youth,small,small,2698,rich,yes,C,small,Mr
+28,920,1,"Brady, Mr. John Bertram",male,adlut,small,small,113054,rich,yes,S,small,Mr
+29,921,3,"Samaan, Mr. Elias",male,youth,middle,small,2662,rich,yes,C,mid,Mr
+30,922,2,"Louch, Mr. Charles Alexander",male,adlut,middle,small,SC/AH 3085,rich,yes,S,mid,Mr
+31,923,2,"Jefferys, Mr. Clifford Thomas",male,youth,middle,small,C.A. 31029,rich,yes,S,mid,Mr
+32,924,3,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,adlut,middle,middle,C.A. 2315,rich,yes,S,mid,Mrs
+33,925,3,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,youth,middle,middle,W./C. 6607,rich,yes,S,mid,Mrs
+34,926,1,"Mock, Mr. Philipp Edmund",male,adlut,middle,small,13236,rich,yes,C,mid,Mr
+35,927,3,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",male,youth,small,small,2682,rich,yes,C,small,Mr
+36,928,3,"Roth, Miss. Sarah A",female,adlut,small,small,342712,rich,yes,S,small,Miss
+37,929,3,"Cacic, Miss. Manda",female,youth,small,small,315087,rich,yes,S,small,Miss
+38,930,3,"Sap, Mr. Julius",male,youth,small,small,345768,rich,yes,S,small,Mr
+39,931,3,"Hee, Mr. Ling",male,youth,small,small,1601,rich,yes,S,small,Mr
+40,932,3,"Karun, Mr. Franz",male,adlut,small,middle,349256,rich,yes,C,mid,Mr
+41,933,1,"Franklin, Mr. Thomas Parham",male,adlut,small,small,113778,rich,yes,S,small,Mr
+42,934,3,"Goldsmith, Mr. Nathan",male,adlut,small,small,SOTON/O.Q. 3101263,rich,yes,S,small,Mr
+43,935,2,"Corbett, Mrs. Walter H (Irene Colvin)",female,adlut,small,small,237249,rich,yes,S,small,Mrs
+44,936,1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,adlut,middle,small,11753,rich,yes,S,mid,Mrs
+45,937,3,"Peltomaki, Mr. Nikolai Johannes",male,youth,small,small,STON/O 2. 3101291,rich,yes,S,small,Mr
+46,938,1,"Chevre, Mr. Paul Romaine",male,adlut,small,small,PC 17594,rich,yes,C,small,Mr
+47,939,3,"Shaughnessy, Mr. Patrick",male,adlut,small,small,370374,rich,yes,Q,small,Mr
+48,940,1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,old,small,small,11813,rich,yes,C,small,Mrs
+49,941,3,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,adlut,small,middle,C.A. 37671,rich,yes,S,mid,Mrs
+50,942,1,"Smith, Mr. Lucien Philip",male,youth,middle,small,13695,rich,yes,S,mid,Mr
+51,943,2,"Pulbaum, Mr. Franz",male,youth,small,small,SC/PARIS 2168,rich,yes,C,small,Mr
+52,944,2,"Hocking, Miss. Ellen Nellie""""",female,youth,middle,middle,29105,rich,yes,S,mid,Miss
+53,945,1,"Fortune, Miss. Ethel Flora",female,youth,large,middle,19950,rich,yes,S,big,Miss
+54,946,2,"Mangiavacchi, Mr. Serafino Emilio",male,adlut,small,small,SC/A.3 2861,rich,yes,C,small,Mr
+55,947,3,"Rice, Master. Albert",male,youth,large,middle,382652,rich,yes,Q,big,Master
+56,948,3,"Cor, Mr. Bartol",male,adlut,small,small,349230,rich,yes,S,small,Mr
+57,949,3,"Abelseth, Mr. Olaus Jorgensen",male,youth,small,small,348122,rich,yes,S,small,Mr
+58,950,3,"Davison, Mr. Thomas Henry",male,youth,middle,small,386525,rich,yes,S,mid,Mr
+59,951,1,"Chaudanson, Miss. Victorine",female,adlut,small,small,PC 17608,rich,yes,C,small,Miss
+60,952,3,"Dika, Mr. Mirko",male,youth,small,small,349232,rich,yes,S,small,Mr
+61,953,2,"McCrae, Mr. Arthur Gordon",male,adlut,small,small,237216,rich,yes,S,small,Mr
+62,954,3,"Bjorklund, Mr. Ernst Herbert",male,youth,small,small,347090,rich,yes,S,small,Mr
+63,955,3,"Bradley, Miss. Bridget Delia",female,youth,small,small,334914,rich,yes,Q,small,Miss
+64,956,1,"Ryerson, Master. John Borie",male,youth,middle,middle,PC 17608,rich,yes,C,big,Master
+65,957,2,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,adlut,small,small,F.C.C. 13534,rich,yes,S,small,Mrs
+66,958,3,"Burns, Miss. Mary Delia",female,youth,small,small,330963,rich,yes,Q,small,Miss
+67,959,1,"Moore, Mr. Clarence Bloomfield",male,adlut,small,small,113796,rich,yes,S,small,Mr
+68,960,1,"Tucker, Mr. Gilbert Milligan Jr",male,adlut,small,small,2543,rich,yes,C,small,Mr
+69,961,1,"Fortune, Mrs. Mark (Mary McDougald)",female,old,middle,large,19950,rich,yes,S,big,Mrs
+70,962,3,"Mulvihill, Miss. Bertha E",female,youth,small,small,382653,rich,yes,Q,small,Miss
+71,963,3,"Minkoff, Mr. Lazar",male,youth,small,small,349211,rich,yes,S,small,Mr
+72,964,3,"Nieminen, Miss. Manta Josefina",female,youth,small,small,3101297,rich,yes,S,small,Miss
+73,965,1,"Ovies y Rodriguez, Mr. Servando",male,youth,small,small,PC 17562,rich,yes,C,small,Mr
+74,966,1,"Geiger, Miss. Amalie",female,adlut,small,small,113503,rich,yes,C,small,Miss
+75,967,1,"Keeping, Mr. Edwin",male,adlut,small,small,113503,rich,yes,C,small,Mr
+76,968,3,"Miles, Mr. Frank",male,adlut,small,small,359306,rich,yes,S,small,Mr
+77,969,1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,adlut,middle,small,11770,rich,yes,S,mid,Mrs
+78,970,2,"Aldworth, Mr. Charles Augustus",male,adlut,small,small,248744,rich,yes,S,small,Mr
+79,971,3,"Doyle, Miss. Elizabeth",female,youth,small,small,368702,rich,yes,Q,small,Miss
+80,972,3,"Boulos, Master. Akar",male,child,middle,middle,2678,rich,yes,C,mid,Master
+81,973,1,"Straus, Mr. Isidor",male,old,middle,small,PC 17483,rich,yes,S,mid,Mr
+82,974,1,"Case, Mr. Howard Brown",male,adlut,small,small,19924,rich,yes,S,small,Mr
+83,975,3,"Demetri, Mr. Marinko",male,youth,small,small,349238,rich,yes,S,small,Mr
+84,976,2,"Lamb, Mr. John Joseph",male,adlut,small,small,240261,rich,yes,Q,small,Mr
+85,977,3,"Khalil, Mr. Betros",male,youth,middle,small,2660,rich,yes,C,mid,Mr
+86,978,3,"Barry, Miss. Julia",female,youth,small,small,330844,rich,yes,Q,small,Miss
+87,979,3,"Badman, Miss. Emily Louisa",female,youth,small,small,A/4 31416,rich,yes,S,small,Miss
+88,980,3,"O'Donoghue, Ms. Bridget",female,adlut,small,small,364856,rich,yes,Q,small,Mrs
+89,981,2,"Wells, Master. Ralph Lester",male,child,middle,middle,29103,rich,yes,S,mid,Master
+90,982,3,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,youth,middle,small,347072,rich,yes,S,mid,Mrs
+91,983,3,"Pedersen, Mr. Olaf",male,youth,small,small,345498,rich,yes,S,small,Mr
+92,984,1,"Davidson, Mrs. Thornton (Orian Hays)",female,youth,middle,middle,F.C. 12750,rich,yes,S,mid,Mrs
+93,985,3,"Guest, Mr. Robert",male,adlut,small,small,376563,rich,yes,S,small,Mr
+94,986,1,"Birnbaum, Mr. Jakob",male,youth,small,small,13905,rich,yes,C,small,Mr
+95,987,3,"Tenglin, Mr. Gunnar Isidor",male,youth,small,small,350033,rich,yes,S,small,Mr
+96,988,1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,tooold,middle,small,19877,rich,yes,S,mid,Mrs
+97,989,3,"Makinen, Mr. Kalle Edvard",male,youth,small,small,STON/O 2. 3101268,rich,yes,S,small,Mr
+98,990,3,"Braf, Miss. Elin Ester Maria",female,youth,small,small,347471,rich,yes,S,small,Miss
+99,991,3,"Nancarrow, Mr. William Henry",male,adlut,small,small,A./5. 3338,rich,yes,S,small,Mr
+100,992,1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,adlut,middle,small,11778,rich,yes,C,mid,Mrs
+101,993,2,"Weisz, Mr. Leopold",male,youth,middle,small,228414,rich,yes,S,mid,Mr
+102,994,3,"Foley, Mr. William",male,adlut,small,small,365235,rich,yes,Q,small,Mr
+103,995,3,"Johansson Palmquist, Mr. Oskar Leander",male,youth,small,small,347070,rich,yes,S,small,Mr
+104,996,3,"Thomas, Mrs. Alexander (Thamine Thelma"")""",female,youth,middle,middle,2625,rich,yes,C,mid,Mrs
+105,997,3,"Holthen, Mr. Johan Martin",male,youth,small,small,C 4001,rich,yes,S,small,Mr
+106,998,3,"Buckley, Mr. Daniel",male,youth,small,small,330920,rich,yes,Q,small,Mr
+107,999,3,"Ryan, Mr. Edward",male,adlut,small,small,383162,rich,yes,Q,small,Mr
+108,1000,3,"Willer, Mr. Aaron (Abi Weller"")""",male,youth,small,small,3410,rich,yes,S,small,Mr
+109,1001,2,"Swane, Mr. George",male,youth,small,small,248734,rich,yes,S,small,Mr
+110,1002,2,"Stanton, Mr. Samuel Ward",male,adlut,small,small,237734,rich,yes,C,small,Mr
+111,1003,3,"Shine, Miss. Ellen Natalia",female,youth,small,small,330968,rich,yes,Q,small,Miss
+112,1004,1,"Evans, Miss. Edith Corse",female,adlut,small,small,PC 17531,rich,yes,C,small,Miss
+113,1005,3,"Buckley, Miss. Katherine",female,youth,small,small,329944,rich,yes,Q,small,Miss
+114,1006,1,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,old,middle,small,PC 17483,rich,yes,S,mid,Mrs
+115,1007,3,"Chronopoulos, Mr. Demetrios",male,youth,middle,small,2680,rich,yes,C,mid,Mr
+116,1008,3,"Thomas, Mr. John",male,adlut,small,small,2681,rich,yes,C,small,Mr
+117,1009,3,"Sandstrom, Miss. Beatrice Irene",female,child,middle,middle,PP 9549,rich,yes,S,mid,Miss
+118,1010,1,"Beattie, Mr. Thomson",male,adlut,small,small,13050,rich,yes,C,small,Mr
+119,1011,2,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,youth,middle,small,SC/AH 29037,rich,yes,S,mid,Mrs
+120,1012,2,"Watt, Miss. Bertha J",female,youth,small,small,C.A. 33595,rich,yes,S,small,Miss
+121,1013,3,"Kiernan, Mr. John",male,adlut,middle,small,367227,rich,yes,Q,mid,Mr
+122,1014,1,"Schabert, Mrs. Paul (Emma Mock)",female,adlut,middle,small,13236,rich,yes,C,mid,Mrs
+123,1015,3,"Carver, Mr. Alfred John",male,youth,small,small,392095,rich,yes,S,small,Mr
+124,1016,3,"Kennedy, Mr. John",male,adlut,small,small,368783,rich,yes,Q,small,Mr
+125,1017,3,"Cribb, Miss. Laura Alice",female,youth,small,middle,371362,rich,yes,S,mid,Miss
+126,1018,3,"Brobeck, Mr. Karl Rudolf",male,youth,small,small,350045,rich,yes,S,small,Mr
+127,1019,3,"McCoy, Miss. Alicia",female,youth,middle,small,367226,rich,yes,Q,mid,Miss
+128,1020,2,"Bowenur, Mr. Solomon",male,adlut,small,small,211535,rich,yes,S,small,Mr
+129,1021,3,"Petersen, Mr. Marius",male,youth,small,small,342441,rich,yes,S,small,Mr
+130,1022,3,"Spinner, Mr. Henry John",male,adlut,small,small,STON/OQ. 369943,rich,yes,S,small,Mr
+131,1023,1,"Gracie, Col. Archibald IV",male,adlut,small,small,113780,rich,yes,C,small,Officer
+132,1024,3,"Lefebre, Mrs. Frank (Frances)",female,adlut,small,large,4133,rich,yes,S,big,Mrs
+133,1025,3,"Thomas, Mr. Charles P",male,youth,middle,small,2621,rich,yes,C,mid,Mr
+134,1026,3,"Dintcheff, Mr. Valtcho",male,adlut,small,small,349226,rich,yes,S,small,Mr
+135,1027,3,"Carlsson, Mr. Carl Robert",male,youth,small,small,350409,rich,yes,S,small,Mr
+136,1028,3,"Zakarian, Mr. Mapriededer",male,youth,small,small,2656,rich,yes,C,small,Mr
+137,1029,2,"Schmidt, Mr. August",male,youth,small,small,248659,rich,yes,S,small,Mr
+138,1030,3,"Drapkin, Miss. Jennie",female,youth,small,small,SOTON/OQ 392083,rich,yes,S,small,Miss
+139,1031,3,"Goodwin, Mr. Charles Frederick",male,adlut,middle,large,CA 2144,rich,yes,S,bigger,Mr
+140,1032,3,"Goodwin, Miss. Jessie Allis",female,youth,large,middle,CA 2144,rich,yes,S,bigger,Miss
+141,1033,1,"Daniels, Miss. Sarah",female,adlut,small,small,113781,rich,yes,S,small,Miss
+142,1034,1,"Ryerson, Mr. Arthur Larned",male,old,middle,middle,PC 17608,rich,yes,C,big,Mr
+143,1035,2,"Beauchamp, Mr. Henry James",male,youth,small,small,244358,rich,yes,S,small,Mr
+144,1036,1,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",male,adlut,small,small,17475,rich,yes,S,small,Mr
+145,1037,3,"Vander Planke, Mr. Julius",male,adlut,large,small,345763,rich,yes,S,mid,Mr
+146,1038,1,"Hilliard, Mr. Herbert Henry",male,adlut,small,small,17463,rich,yes,S,small,Mr
+147,1039,3,"Davies, Mr. Evan",male,youth,small,small,SC/A4 23568,rich,yes,S,small,Mr
+148,1040,1,"Crafton, Mr. John Bertram",male,adlut,small,small,113791,rich,yes,S,small,Mr
+149,1041,2,"Lahtinen, Rev. William",male,adlut,middle,middle,250651,rich,yes,S,mid,Officer
+150,1042,1,"Earnshaw, Mrs. Boulton (Olive Potter)",female,youth,small,middle,11767,rich,yes,C,mid,Mrs
+151,1043,3,"Matinoff, Mr. Nicola",male,youth,small,small,349255,rich,yes,C,small,Mr
+152,1044,3,"Storey, Mr. Thomas",male,old,small,small,3701,rich,yes,S,small,Mr
+153,1045,3,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,adlut,small,middle,350405,rich,yes,S,mid,Mrs
+154,1046,3,"Asplund, Master. Filip Oscar",male,youth,large,middle,347077,rich,yes,S,big,Master
+155,1047,3,"Duquemin, Mr. Joseph",male,youth,small,small,S.O./P.P. 752,rich,yes,S,small,Mr
+156,1048,1,"Bird, Miss. Ellen",female,youth,small,small,PC 17483,rich,yes,S,small,Miss
+157,1049,3,"Lundin, Miss. Olga Elida",female,youth,small,small,347469,rich,yes,S,small,Miss
+158,1050,1,"Borebank, Mr. John James",male,adlut,small,small,110489,rich,yes,S,small,Mr
+159,1051,3,"Peacock, Mrs. Benjamin (Edith Nile)",female,youth,small,middle,SOTON/O.Q. 3101315,rich,yes,S,mid,Mrs
+160,1052,3,"Smyth, Miss. Julia",female,youth,small,small,335432,rich,yes,Q,small,Miss
+161,1053,3,"Touma, Master. Georges Youssef",male,child,middle,middle,2650,rich,yes,C,mid,Master
+162,1054,2,"Wright, Miss. Marion",female,youth,small,small,220844,rich,yes,S,small,Miss
+163,1055,3,"Pearce, Mr. Ernest",male,adlut,small,small,343271,rich,yes,S,small,Mr
+164,1056,2,"Peruschitz, Rev. Joseph Maria",male,adlut,small,small,237393,rich,yes,S,small,Officer
+165,1057,3,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,youth,middle,middle,315153,rich,yes,S,mid,Mrs
+166,1058,1,"Brandeis, Mr. Emil",male,adlut,small,small,PC 17591,rich,yes,C,small,Mr
+167,1059,3,"Ford, Mr. Edward Watson",male,youth,middle,middle,W./C. 6608,rich,yes,S,big,Mr
+168,1060,1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,adlut,small,small,17770,rich,yes,C,small,Mrs
+169,1061,3,"Hellstrom, Miss. Hilda Maria",female,youth,small,small,7548,rich,yes,S,small,Miss
+170,1062,3,"Lithman, Mr. Simon",male,adlut,small,small,S.O./P.P. 251,rich,yes,S,small,Mr
+171,1063,3,"Zakarian, Mr. Ortin",male,youth,small,small,2670,rich,yes,C,small,Mr
+172,1064,3,"Dyker, Mr. Adolf Fredrik",male,youth,middle,small,347072,rich,yes,S,mid,Mr
+173,1065,3,"Torfa, Mr. Assad",male,youth,small,small,2673,rich,yes,C,small,Mr
+174,1066,3,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,adlut,middle,large,347077,rich,yes,S,big,Mr
+175,1067,2,"Brown, Miss. Edith Eileen",female,youth,small,middle,29750,rich,yes,S,mid,Miss
+176,1068,2,"Sincock, Miss. Maude",female,youth,small,small,C.A. 33112,rich,yes,S,small,Miss
+177,1069,1,"Stengel, Mr. Charles Emil Henry",male,adlut,middle,small,11778,rich,yes,C,mid,Mr
+178,1070,2,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,adlut,small,middle,230136,rich,yes,S,mid,Mrs
+179,1071,1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,old,small,middle,PC 17756,rich,yes,C,mid,Mrs
+180,1072,2,"McCrie, Mr. James Matthew",male,adlut,small,small,233478,rich,yes,S,small,Mr
+181,1073,1,"Compton, Mr. Alexander Taylor Jr",male,adlut,middle,middle,PC 17756,rich,yes,C,mid,Mr
+182,1074,1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,youth,middle,small,113773,rich,yes,S,mid,Mrs
+183,1075,3,"Lane, Mr. Patrick",male,adlut,small,small,7935,rich,yes,Q,small,Mr
+184,1076,1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,youth,middle,middle,PC 17558,rich,yes,C,mid,Mrs
+185,1077,2,"Maybery, Mr. Frank Hubert",male,adlut,small,small,239059,rich,yes,S,small,Mr
+186,1078,2,"Phillips, Miss. Alice Frances Louisa",female,youth,small,middle,S.O./P.P. 2,rich,yes,S,mid,Miss
+187,1079,3,"Davies, Mr. Joseph",male,youth,middle,small,A/4 48873,rich,yes,S,mid,Mr
+188,1080,3,"Sage, Miss. Ada",female,youth,large,middle,CA. 2343,rich,yes,S,bigger,Miss
+189,1081,2,"Veal, Mr. James",male,adlut,small,small,28221,rich,yes,S,small,Mr
+190,1082,2,"Angle, Mr. William A",male,adlut,middle,small,226875,rich,yes,S,mid,Mr
+191,1083,1,"Salomon, Mr. Abraham L",male,adlut,small,small,111163,rich,yes,S,small,Mr
+192,1084,3,"van Billiard, Master. Walter John",male,youth,middle,middle,A/5. 851,rich,yes,S,mid,Master
+193,1085,2,"Lingane, Mr. John",male,old,small,small,235509,rich,yes,Q,small,Mr
+194,1086,2,"Drew, Master. Marshall Brines",male,child,small,middle,28220,rich,yes,S,mid,Master
+195,1087,3,"Karlsson, Mr. Julius Konrad Eugen",male,adlut,small,small,347465,rich,yes,S,small,Mr
+196,1088,1,"Spedden, Master. Robert Douglas",male,child,small,middle,16966,rich,yes,C,mid,Master
+197,1089,3,"Nilsson, Miss. Berta Olivia",female,youth,small,small,347066,rich,yes,S,small,Miss
+198,1090,2,"Baimbrigge, Mr. Charles Robert",male,youth,small,small,C.A. 31030,rich,yes,S,small,Mr
+199,1091,3,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,youth,small,small,65305,rich,yes,S,small,Mrs
+200,1092,3,"Murphy, Miss. Nora",female,youth,small,small,36568,rich,yes,Q,small,Miss
+201,1093,3,"Danbom, Master. Gilbert Sigvard Emanuel",male,child,small,middle,347080,rich,yes,S,mid,Master
+202,1094,1,"Astor, Col. John Jacob",male,adlut,middle,small,PC 17757,rich,yes,C,mid,Officer
+203,1095,2,"Quick, Miss. Winifred Vera",female,child,middle,middle,26360,rich,yes,S,mid,Miss
+204,1096,2,"Andrew, Mr. Frank Thomas",male,youth,small,small,C.A. 34050,rich,yes,S,small,Mr
+205,1097,1,"Omont, Mr. Alfred Fernand",male,adlut,small,small,F.C. 12998,rich,yes,C,small,Mr
+206,1098,3,"McGowan, Miss. Katherine",female,adlut,small,small,9232,rich,yes,Q,small,Miss
+207,1099,2,"Collett, Mr. Sidney C Stuart",male,youth,small,small,28034,rich,yes,S,small,Mr
+208,1100,1,"Rosenbaum, Miss. Edith Louise",female,adlut,small,small,PC 17613,rich,yes,C,small,Miss
+209,1101,3,"Delalic, Mr. Redjo",male,youth,small,small,349250,rich,yes,S,small,Mr
+210,1102,3,"Andersen, Mr. Albert Karvin",male,adlut,small,small,C 4001,rich,yes,S,small,Mr
+211,1103,3,"Finoli, Mr. Luigi",male,youth,small,small,SOTON/O.Q. 3101308,rich,yes,S,small,Mr
+212,1104,2,"Deacon, Mr. Percy William",male,youth,small,small,S.O.C. 14879,rich,yes,S,small,Mr
+213,1105,2,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,old,middle,small,24065,rich,yes,S,mid,Mrs
+214,1106,3,"Andersson, Miss. Ida Augusta Margareta",female,adlut,large,middle,347091,rich,yes,S,big,Miss
+215,1107,1,"Head, Mr. Christopher",male,adlut,small,small,113038,rich,yes,S,small,Mr
+216,1108,3,"Mahon, Miss. Bridget Delia",female,youth,small,small,330924,rich,yes,Q,small,Miss
+217,1109,1,"Wick, Mr. George Dennick",male,adlut,middle,middle,36928,rich,yes,S,mid,Mr
+218,1110,1,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,adlut,middle,middle,113503,rich,yes,C,mid,Mrs
+219,1111,3,"Thomson, Mr. Alexander Morrison",male,adlut,small,small,32302,rich,yes,S,small,Mr
+220,1112,2,"Duran y More, Miss. Florentina",female,adlut,middle,small,SC/PARIS 2148,rich,yes,C,mid,Miss
+221,1113,3,"Reynolds, Mr. Harold J",male,youth,small,small,342684,rich,yes,S,small,Mr
+222,1114,2,"Cook, Mrs. (Selena Rogers)",female,youth,small,small,W./C. 14266,rich,yes,S,small,Mrs
+223,1115,3,"Karlsson, Mr. Einar Gervasius",male,youth,small,small,350053,rich,yes,S,small,Mr
+224,1116,1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,adlut,small,small,PC 17606,rich,yes,C,small,Mrs
+225,1117,3,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",female,youth,small,middle,2661,rich,yes,C,mid,Mrs
+226,1118,3,"Asplund, Mr. Johan Charles",male,youth,small,small,350054,rich,yes,S,small,Mr
+227,1119,3,"McNeill, Miss. Bridget",female,adlut,small,small,370368,rich,yes,Q,small,Miss
+228,1120,3,"Everett, Mr. Thomas James",male,adlut,small,small,C.A. 6212,rich,yes,S,small,Mr
+229,1121,2,"Hocking, Mr. Samuel James Metcalfe",male,adlut,small,small,242963,rich,yes,S,small,Mr
+230,1122,2,"Sweet, Mr. George Frederick",male,youth,small,small,220845,rich,yes,S,small,Mr
+231,1123,1,"Willard, Miss. Constance",female,youth,small,small,113795,rich,yes,S,small,Miss
+232,1124,3,"Wiklund, Mr. Karl Johan",male,youth,middle,small,3101266,rich,yes,S,mid,Mr
+233,1125,3,"Linehan, Mr. Michael",male,youth,small,small,330971,rich,yes,Q,small,Mr
+234,1126,1,"Cumings, Mr. John Bradley",male,adlut,middle,small,PC 17599,rich,yes,C,mid,Mr
+235,1127,3,"Vendel, Mr. Olof Edvin",male,youth,small,small,350416,rich,yes,S,small,Mr
+236,1128,1,"Warren, Mr. Frank Manley",male,old,middle,small,110813,rich,yes,C,mid,Mr
+237,1129,3,"Baccos, Mr. Raffull",male,youth,small,small,2679,rich,yes,C,small,Mr
+238,1130,2,"Hiltunen, Miss. Marta",female,youth,middle,middle,250650,rich,yes,S,mid,Miss
+239,1131,1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,adlut,middle,small,PC 17761,rich,yes,C,mid,Mrs
+240,1132,1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,adlut,small,small,112377,rich,yes,C,small,Mrs
+241,1133,2,"Christy, Mrs. (Alice Frances)",female,adlut,small,middle,237789,rich,yes,S,mid,Mrs
+242,1134,1,"Spedden, Mr. Frederic Oakley",male,adlut,middle,middle,16966,rich,yes,C,mid,Mr
+243,1135,3,"Hyman, Mr. Abraham",male,youth,small,small,3470,rich,yes,S,small,Mr
+244,1136,3,"Johnston, Master. William Arthur Willie""""",male,youth,middle,middle,W./C. 6607,rich,yes,S,mid,Master
+245,1137,1,"Kenyon, Mr. Frederick R",male,adlut,middle,small,17464,rich,yes,S,mid,Mr
+246,1138,2,"Karnes, Mrs. J Frank (Claire Bennett)",female,youth,small,small,F.C.C. 13534,rich,yes,S,small,Mrs
+247,1139,2,"Drew, Mr. James Vivian",male,adlut,middle,middle,28220,rich,yes,S,mid,Mr
+248,1140,2,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,youth,middle,small,26707,rich,yes,S,mid,Mrs
+249,1141,3,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",female,youth,middle,small,2660,rich,yes,C,mid,Mrs
+250,1142,2,"West, Miss. Barbara J",female,child,middle,middle,C.A. 34651,rich,yes,S,mid,Miss
+251,1143,3,"Abrahamsson, Mr. Abraham August Johannes",male,youth,small,small,SOTON/O2 3101284,rich,yes,S,small,Mr
+252,1144,1,"Clark, Mr. Walter Miller",male,youth,middle,small,13508,rich,yes,C,mid,Mr
+253,1145,3,"Salander, Mr. Karl Johan",male,youth,small,small,7266,rich,yes,S,small,Mr
+254,1146,3,"Wenzel, Mr. Linhart",male,adlut,small,small,345775,rich,yes,S,small,Mr
+255,1147,3,"MacKay, Mr. George William",male,adlut,small,small,C.A. 42795,rich,yes,S,small,Mr
+256,1148,3,"Mahon, Mr. John",male,adlut,small,small,AQ/4 3130,rich,yes,Q,small,Mr
+257,1149,3,"Niklasson, Mr. Samuel",male,youth,small,small,363611,rich,yes,S,small,Mr
+258,1150,2,"Bentham, Miss. Lilian W",female,youth,small,small,28404,rich,yes,S,small,Miss
+259,1151,3,"Midtsjo, Mr. Karl Albert",male,youth,small,small,345501,rich,yes,S,small,Mr
+260,1152,3,"de Messemaeker, Mr. Guillaume Joseph",male,adlut,middle,small,345572,rich,yes,S,mid,Mr
+261,1153,3,"Nilsson, Mr. August Ferdinand",male,youth,small,small,350410,rich,yes,S,small,Mr
+262,1154,2,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female,youth,small,middle,29103,rich,yes,S,mid,Mrs
+263,1155,3,"Klasen, Miss. Gertrud Emilia",female,child,middle,middle,350405,rich,yes,S,mid,Miss
+264,1156,2,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,adlut,small,small,C.A. 34644,rich,yes,C,small,Mr
+265,1157,3,"Lyntakoff, Mr. Stanko",male,youth,small,small,349235,rich,yes,S,small,Mr
+266,1158,1,"Chisholm, Mr. Roderick Robert Crispin",male,adlut,small,small,112051,poor,yes,S,small,Mr
+267,1159,3,"Warren, Mr. Charles William",male,adlut,small,small,C.A. 49867,rich,yes,S,small,Mr
+268,1160,3,"Howard, Miss. May Elizabeth",female,adlut,small,small,A. 2. 39186,rich,yes,S,small,Miss
+269,1161,3,"Pokrnic, Mr. Mate",male,youth,small,small,315095,rich,yes,S,small,Mr
+270,1162,1,"McCaffry, Mr. Thomas Francis",male,adlut,small,small,13050,rich,yes,C,small,Mr
+271,1163,3,"Fox, Mr. Patrick",male,adlut,small,small,368573,rich,yes,Q,small,Mr
+272,1164,1,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,youth,middle,small,13508,rich,yes,C,mid,Mrs
+273,1165,3,"Lennon, Miss. Mary",female,adlut,middle,small,370371,rich,yes,Q,mid,Miss
+274,1166,3,"Saade, Mr. Jean Nassr",male,youth,small,small,2676,rich,yes,C,small,Mr
+275,1167,2,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,youth,middle,small,236853,rich,yes,S,mid,Miss
+276,1168,2,"Parker, Mr. Clifford Richard",male,youth,small,small,SC 14888,rich,yes,S,small,Mr
+277,1169,2,"Faunthorpe, Mr. Harry",male,adlut,middle,small,2926,rich,yes,S,mid,Mr
+278,1170,2,"Ware, Mr. John James",male,adlut,middle,small,CA 31352,rich,yes,S,mid,Mr
+279,1171,2,"Oxenham, Mr. Percy Thomas",male,youth,small,small,W./C. 14260,rich,yes,S,small,Mr
+280,1172,3,"Oreskovic, Miss. Jelka",female,youth,small,small,315085,rich,yes,S,small,Miss
+281,1173,3,"Peacock, Master. Alfred Edward",male,child,middle,middle,SOTON/O.Q. 3101315,rich,yes,S,mid,Master
+282,1174,3,"Fleming, Miss. Honora",female,adlut,small,small,364859,rich,yes,Q,small,Miss
+283,1175,3,"Touma, Miss. Maria Youssef",female,child,middle,middle,2650,rich,yes,C,mid,Miss
+284,1176,3,"Rosblom, Miss. Salli Helena",female,child,middle,middle,370129,rich,yes,S,mid,Miss
+285,1177,3,"Dennis, Mr. William",male,adlut,small,small,A/5 21175,rich,yes,S,small,Mr
+286,1178,3,"Franklin, Mr. Charles (Charles Fardon)",male,youth,small,small,SOTON/O.Q. 3101314,rich,yes,S,small,Mr
+287,1179,1,"Snyder, Mr. John Pillsbury",male,youth,middle,small,21228,rich,yes,S,mid,Mr
+288,1180,3,"Mardirosian, Mr. Sarkis",male,youth,small,small,2655,rich,yes,C,small,Mr
+289,1181,3,"Ford, Mr. Arthur",male,adlut,small,small,A/5 1478,rich,yes,S,small,Mr
+290,1182,1,"Rheims, Mr. George Alexander Lucien",male,adlut,small,small,PC 17607,rich,yes,S,small,Mr
+291,1183,3,"Daly, Miss. Margaret Marcella Maggie""""",female,adlut,small,small,382650,rich,yes,Q,small,Miss
+292,1184,3,"Nasr, Mr. Mustafa",male,youth,small,small,2652,rich,yes,C,small,Mr
+293,1185,1,"Dodge, Dr. Washington",male,adlut,middle,middle,33638,rich,yes,S,mid,Officer
+294,1186,3,"Wittevrongel, Mr. Camille",male,adlut,small,small,345771,rich,yes,S,small,Mr
+295,1187,3,"Angheloff, Mr. Minko",male,youth,small,small,349202,rich,yes,S,small,Mr
+296,1188,2,"Laroche, Miss. Louise",female,child,middle,middle,SC/Paris 2123,rich,yes,C,mid,Miss
+297,1189,3,"Samaan, Mr. Hanna",male,youth,middle,small,2662,rich,yes,C,mid,Mr
+298,1190,1,"Loring, Mr. Joseph Holland",male,adlut,small,small,113801,rich,yes,S,small,Mr
+299,1191,3,"Johansson, Mr. Nils",male,youth,small,small,347467,rich,yes,S,small,Mr
+300,1192,3,"Olsson, Mr. Oscar Wilhelm",male,adlut,small,small,347079,rich,yes,S,small,Mr
+301,1193,2,"Malachard, Mr. Noel",male,adlut,small,small,237735,rich,yes,C,small,Mr
+302,1194,2,"Phillips, Mr. Escott Robert",male,adlut,small,middle,S.O./P.P. 2,rich,yes,S,mid,Mr
+303,1195,3,"Pokrnic, Mr. Tome",male,youth,small,small,315092,rich,yes,S,small,Mr
+304,1196,3,"McCarthy, Miss. Catherine Katie""""",female,adlut,small,small,383123,rich,yes,Q,small,Miss
+305,1197,1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,old,middle,middle,112901,rich,yes,S,mid,Mrs
+306,1198,1,"Allison, Mr. Hudson Joshua Creighton",male,adlut,middle,middle,113781,rich,yes,S,mid,Mr
+307,1199,3,"Aks, Master. Philip Frank",male,child,small,middle,392091,rich,yes,S,mid,Master
+308,1200,1,"Hays, Mr. Charles Melville",male,adlut,middle,middle,12749,rich,yes,S,mid,Mr
+309,1201,3,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,adlut,middle,small,350026,rich,yes,S,mid,Mrs
+310,1202,3,"Cacic, Mr. Jego Grga",male,youth,small,small,315091,rich,yes,S,small,Mr
+311,1203,3,"Vartanian, Mr. David",male,youth,small,small,2658,rich,yes,C,small,Mr
+312,1204,3,"Sadowitz, Mr. Harry",male,adlut,small,small,LP 1588,rich,yes,S,small,Mr
+313,1205,3,"Carr, Miss. Jeannie",female,adlut,small,small,368364,rich,yes,Q,small,Miss
+314,1206,1,"White, Mrs. John Stuart (Ella Holmes)",female,adlut,small,small,PC 17760,rich,yes,C,small,Mrs
+315,1207,3,"Hagardon, Miss. Kate",female,youth,small,small,AQ/3. 30631,rich,yes,Q,small,Miss
+316,1208,1,"Spencer, Mr. William Augustus",male,adlut,middle,small,PC 17569,rich,yes,C,mid,Mr
+317,1209,2,"Rogers, Mr. Reginald Harry",male,youth,small,small,28004,rich,yes,S,small,Mr
+318,1210,3,"Jonsson, Mr. Nils Hilding",male,youth,small,small,350408,rich,yes,S,small,Mr
+319,1211,2,"Jefferys, Mr. Ernest Wilfred",male,youth,middle,small,C.A. 31029,rich,yes,S,mid,Mr
+320,1212,3,"Andersson, Mr. Johan Samuel",male,youth,small,small,347075,rich,yes,S,small,Mr
+321,1213,3,"Krekorian, Mr. Neshan",male,youth,small,small,2654,rich,yes,C,small,Mr
+322,1214,2,"Nesson, Mr. Israel",male,youth,small,small,244368,rich,yes,S,small,Mr
+323,1215,1,"Rowe, Mr. Alfred G",male,adlut,small,small,113790,rich,yes,S,small,Mr
+324,1216,1,"Kreuchen, Miss. Emilie",female,adlut,small,small,24160,rich,yes,S,small,Miss
+325,1217,3,"Assam, Mr. Ali",male,youth,small,small,SOTON/O.Q. 3101309,rich,yes,S,small,Mr
+326,1218,2,"Becker, Miss. Ruth Elizabeth",female,youth,middle,middle,230136,rich,yes,S,mid,Miss
+327,1219,1,"Rosenshine, Mr. George (Mr George Thorne"")""",male,adlut,small,small,PC 17585,rich,yes,C,small,Mr
+328,1220,2,"Clarke, Mr. Charles Valentine",male,youth,middle,small,2003,rich,yes,S,mid,Mr
+329,1221,2,"Enander, Mr. Ingvar",male,youth,small,small,236854,rich,yes,S,small,Mr
+330,1222,2,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,adlut,small,middle,C.A. 33112,rich,yes,S,mid,Mrs
+331,1223,1,"Dulles, Mr. William Crothers",male,adlut,small,small,PC 17580,rich,yes,C,small,Mr
+332,1224,3,"Thomas, Mr. Tannous",male,youth,small,small,2684,rich,yes,C,small,Mr
+333,1225,3,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female,youth,middle,middle,2653,rich,yes,C,mid,Mrs
+334,1226,3,"Cor, Mr. Ivan",male,youth,small,small,349229,rich,yes,S,small,Mr
+335,1227,1,"Maguire, Mr. John Edward",male,adlut,small,small,110469,rich,yes,S,small,Mr
+336,1228,2,"de Brito, Mr. Jose Joaquim",male,adlut,small,small,244360,rich,yes,S,small,Mr
+337,1229,3,"Elias, Mr. Joseph",male,adlut,small,middle,2675,rich,yes,C,mid,Mr
+338,1230,2,"Denbury, Mr. Herbert",male,youth,small,small,C.A. 31029,rich,yes,S,small,Mr
+339,1231,3,"Betros, Master. Seman",male,youth,small,small,2622,rich,yes,C,small,Master
+340,1232,2,"Fillbrook, Mr. Joseph Charles",male,youth,small,small,C.A. 15185,rich,yes,S,small,Mr
+341,1233,3,"Lundstrom, Mr. Thure Edvin",male,adlut,small,small,350403,rich,yes,S,small,Mr
+342,1234,3,"Sage, Mr. John George",male,adlut,middle,large,CA. 2343,rich,yes,S,bigger,Mr
+343,1235,1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,adlut,small,middle,PC 17755,rich,yes,C,mid,Mrs
+344,1236,3,"van Billiard, Master. James William",male,youth,middle,middle,A/5. 851,rich,yes,S,mid,Master
+345,1237,3,"Abelseth, Miss. Karen Marie",female,youth,small,small,348125,rich,yes,S,small,Miss
+346,1238,2,"Botsford, Mr. William Hull",male,youth,small,small,237670,rich,yes,S,small,Mr
+347,1239,3,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,adlut,small,small,2688,rich,yes,C,small,Mrs
+348,1240,2,"Giles, Mr. Ralph",male,youth,small,small,248726,rich,yes,S,small,Mr
+349,1241,2,"Walcroft, Miss. Nellie",female,adlut,small,small,F.C.C. 13528,rich,yes,S,small,Miss
+350,1242,1,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,adlut,small,middle,PC 17759,rich,yes,C,mid,Mrs
+351,1243,2,"Stokes, Mr. Philip Joseph",male,youth,small,small,F.C.C. 13540,rich,yes,S,small,Mr
+352,1244,2,"Dibden, Mr. William",male,youth,small,small,S.O.C. 14879,rich,yes,S,small,Mr
+353,1245,2,"Herman, Mr. Samuel",male,adlut,middle,middle,220845,rich,yes,S,mid,Mr
+354,1246,3,"Dean, Miss. Elizabeth Gladys Millvina""""",female,child,middle,middle,C.A. 2315,rich,yes,S,mid,Miss
+355,1247,1,"Julian, Mr. Henry Forbes",male,adlut,small,small,113044,rich,yes,S,small,Mr
+356,1248,1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,adlut,middle,small,11769,rich,yes,S,mid,Mrs
+357,1249,3,"Lockyer, Mr. Edward",male,youth,small,small,1222,rich,yes,S,small,Mr
+358,1250,3,"O'Keefe, Mr. Patrick",male,adlut,small,small,368402,rich,yes,Q,small,Mr
+359,1251,3,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,adlut,middle,small,349910,rich,yes,S,mid,Mrs
+360,1252,3,"Sage, Master. William Henry",male,youth,large,middle,CA. 2343,rich,yes,S,bigger,Master
+361,1253,2,"Mallet, Mrs. Albert (Antoinette Magnin)",female,youth,middle,middle,S.C./PARIS 2079,rich,yes,C,mid,Mrs
+362,1254,2,"Ware, Mrs. John James (Florence Louise Long)",female,adlut,small,small,CA 31352,rich,yes,S,small,Mrs
+363,1255,3,"Strilic, Mr. Ivan",male,youth,small,small,315083,rich,yes,S,small,Mr
+364,1256,1,"Harder, Mrs. George Achilles (Dorothy Annan)",female,youth,middle,small,11765,rich,yes,C,mid,Mrs
+365,1257,3,"Sage, Mrs. John (Annie Bullen)",female,adlut,middle,large,CA. 2343,rich,yes,S,bigger,Mrs
+366,1258,3,"Caram, Mr. Joseph",male,youth,middle,small,2689,rich,yes,C,mid,Mr
+367,1259,3,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female,youth,small,small,3101295,rich,yes,S,small,Miss
+368,1260,1,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,adlut,small,middle,112378,rich,yes,C,mid,Mrs
+369,1261,2,"Pallas y Castello, Mr. Emilio",male,youth,small,small,SC/PARIS 2147,rich,yes,C,small,Mr
+370,1262,2,"Giles, Mr. Edgar",male,youth,middle,small,28133,rich,yes,S,mid,Mr
+371,1263,1,"Wilson, Miss. Helen Alice",female,adlut,small,small,16966,rich,yes,C,small,Miss
+372,1264,1,"Ismay, Mr. Joseph Bruce",male,adlut,small,small,112058,poor,yes,S,small,Mr
+373,1265,2,"Harbeck, Mr. William H",male,adlut,small,small,248746,rich,yes,S,small,Mr
+374,1266,1,"Dodge, Mrs. Washington (Ruth Vidaver)",female,adlut,middle,middle,33638,rich,yes,S,mid,Mrs
+375,1267,1,"Bowen, Miss. Grace Scott",female,adlut,small,small,PC 17608,rich,yes,C,small,Miss
+376,1268,3,"Kink, Miss. Maria",female,youth,middle,small,315152,rich,yes,S,mid,Miss
+377,1269,2,"Cotterill, Mr. Henry Harry""""",male,youth,small,small,29107,rich,yes,S,small,Mr
+378,1270,1,"Hipkins, Mr. William Edward",male,adlut,small,small,680,rich,yes,S,small,Mr
+379,1271,3,"Asplund, Master. Carl Edgar",male,child,large,middle,347077,rich,yes,S,big,Master
+380,1272,3,"O'Connor, Mr. Patrick",male,adlut,small,small,366713,rich,yes,Q,small,Mr
+381,1273,3,"Foley, Mr. Joseph",male,youth,small,small,330910,rich,yes,Q,small,Mr
+382,1274,3,"Risien, Mrs. Samuel (Emma)",female,youth,small,small,364498,rich,yes,S,small,Mrs
+383,1275,3,"McNamee, Mrs. Neal (Eileen O'Leary)",female,youth,middle,small,376566,rich,yes,S,mid,Mrs
+384,1276,2,"Wheeler, Mr. Edwin Frederick""""",male,adlut,small,small,SC/PARIS 2159,rich,yes,S,small,Mr
+385,1277,2,"Herman, Miss. Kate",female,youth,middle,middle,220845,rich,yes,S,mid,Miss
+386,1278,3,"Aronsson, Mr. Ernst Axel Algot",male,youth,small,small,349911,rich,yes,S,small,Mr
+387,1279,2,"Ashby, Mr. John",male,adlut,small,small,244346,rich,yes,S,small,Mr
+388,1280,3,"Canavan, Mr. Patrick",male,youth,small,small,364858,rich,yes,Q,small,Mr
+389,1281,3,"Palsson, Master. Paul Folke",male,child,large,middle,349909,rich,yes,S,big,Master
+390,1282,1,"Payne, Mr. Vivian Ponsonby",male,youth,small,small,12749,rich,yes,S,small,Mr
+391,1283,1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,adlut,small,middle,PC 17592,rich,yes,S,mid,Mrs
+392,1284,3,"Abbott, Master. Eugene Joseph",male,youth,small,middle,C.A. 2673,rich,yes,S,mid,Master
+393,1285,2,"Gilbert, Mr. William",male,adlut,small,small,C.A. 30769,rich,yes,S,small,Mr
+394,1286,3,"Kink-Heilmann, Mr. Anton",male,youth,large,middle,315153,rich,yes,S,big,Mr
+395,1287,1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,youth,middle,small,13695,rich,yes,S,mid,Mrs
+396,1288,3,"Colbert, Mr. Patrick",male,youth,small,small,371109,rich,yes,Q,small,Mr
+397,1289,1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,adlut,middle,middle,13567,rich,yes,C,mid,Mrs
+398,1290,3,"Larsson-Rondberg, Mr. Edvard A",male,youth,small,small,347065,rich,yes,S,small,Mr
+399,1291,3,"Conlon, Mr. Thomas Henry",male,adlut,small,small,21332,rich,yes,Q,small,Mr
+400,1292,1,"Bonnell, Miss. Caroline",female,adlut,small,small,36928,rich,yes,S,small,Miss
+401,1293,2,"Gale, Mr. Harry",male,adlut,middle,small,28664,rich,yes,S,mid,Mr
+402,1294,1,"Gibson, Miss. Dorothy Winifred",female,youth,small,middle,112378,rich,yes,C,mid,Miss
+403,1295,1,"Carrau, Mr. Jose Pedro",male,youth,small,small,113059,rich,yes,S,small,Mr
+404,1296,1,"Frauenthal, Mr. Isaac Gerald",male,adlut,middle,small,17765,rich,yes,C,mid,Mr
+405,1297,2,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male,youth,small,small,SC/PARIS 2166,rich,yes,C,small,Mr
+406,1298,2,"Ware, Mr. William Jeffery",male,youth,middle,small,28666,rich,yes,S,mid,Mr
+407,1299,1,"Widener, Mr. George Dunton",male,adlut,middle,middle,113503,rich,yes,C,mid,Mr
+408,1300,3,"Riordan, Miss. Johanna Hannah""""",female,youth,small,small,334915,rich,yes,Q,small,Miss
+409,1301,3,"Peacock, Miss. Treasteall",female,child,middle,middle,SOTON/O.Q. 3101315,rich,yes,S,mid,Miss
+410,1302,3,"Naughton, Miss. Hannah",female,adlut,small,small,365237,rich,yes,Q,small,Miss
+411,1303,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,adlut,middle,small,19928,rich,yes,Q,mid,Mrs
+412,1304,3,"Henriksson, Miss. Jenny Lovisa",female,youth,small,small,347086,rich,yes,S,small,Miss
+413,1305,3,"Spector, Mr. Woolf",male,adlut,small,small,A.5. 3236,rich,yes,S,small,Mr
+414,1306,1,"Oliva y Ocana, Dona. Fermina",female,adlut,small,small,PC 17758,rich,yes,C,small,Royalty
+415,1307,3,"Saether, Mr. Simon Sivertsen",male,adlut,small,small,SOTON/O.Q. 3101262,rich,yes,S,small,Mr
+416,1308,3,"Ware, Mr. Frederick",male,adlut,small,small,359309,rich,yes,S,small,Mr
+417,1309,3,"Peter, Master. Michael J",male,youth,middle,middle,2668,rich,yes,C,mid,Master
