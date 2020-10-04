@@ -5,8 +5,6 @@ import numpy as np
 # 获取数据
 from sklearn.decomposition import PCA
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.feature_selection import SelectKBest
-from sklearn.model_selection import GridSearchCV
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 
@@ -54,6 +52,8 @@ if __name__ == '__main__':
     prv = pipeline.predict(test)
 
     result = np.zeros((300, 1))
+
+
     id = [i for i in range(300)]
 
     result[:, 0] = prv
