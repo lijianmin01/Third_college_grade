@@ -1,0 +1,1474 @@
+wife_age,wife_edu,husb_edu,children,wife_religion,wife-working,husb-occup,s-living_index,media_exp,contrac_mthd
+24,middle low,middle high,3,Islam,No,Cat2,middle high,good,No-use
+45,low,middle high,10,Islam,No,Cat3,high,good,No-use
+43,middle low,middle high,7,Islam,No,Cat3,high,good,No-use
+42,middle high,middle low,9,Islam,No,Cat3,middle high,good,No-use
+36,middle high,middle high,8,Islam,No,Cat3,middle low,good,No-use
+19,high,high,0,Islam,No,Cat3,middle high,good,No-use
+38,middle low,middle high,6,Islam,No,Cat3,middle low,good,No-use
+21,middle high,middle high,1,Islam,Yes,Cat3,middle low,good,No-use
+27,middle low,middle high,3,Islam,No,Cat3,high,good,No-use
+45,low,low,8,Islam,No,Cat2,middle low,bad,No-use
+38,low,middle high,2,Islam,Yes,Cat3,middle high,bad,No-use
+42,low,high,4,Islam,No,Cat1,middle high,good,No-use
+44,high,high,1,Islam,Yes,Cat1,high,good,No-use
+42,middle low,high,1,Islam,Yes,Cat3,middle high,good,No-use
+38,middle high,high,2,Islam,No,Cat2,middle high,good,No-use
+26,middle low,high,0,Islam,No,Cat4,low,good,No-use
+48,low,low,7,Islam,No,Cat2,high,good,No-use
+39,middle low,middle low,6,Islam,No,Cat2,high,good,No-use
+37,middle low,middle low,8,Islam,No,Cat2,middle high,good,No-use
+39,middle low,low,5,Islam,No,Cat2,low,bad,No-use
+26,middle high,high,1,Islam,Yes,Cat4,low,good,No-use
+24,middle high,high,0,Islam,Yes,Cat3,low,good,No-use
+46,high,high,1,Other,No,Cat1,high,good,No-use
+39,high,high,1,Islam,No,Cat1,high,good,No-use
+48,high,high,5,Islam,No,Cat1,high,good,No-use
+40,middle low,high,8,Islam,No,Cat3,middle high,good,No-use
+38,high,high,1,Islam,Yes,Cat1,high,good,No-use
+29,high,high,0,Islam,Yes,Cat1,high,good,No-use
+24,high,high,0,Islam,Yes,Cat2,middle low,good,No-use
+43,low,middle low,8,Islam,No,Cat2,high,good,No-use
+31,middle high,high,2,Islam,No,Cat1,high,good,No-use
+31,high,high,2,Islam,No,Cat3,middle low,good,No-use
+26,middle low,high,0,Islam,Yes,Cat1,middle low,good,No-use
+33,middle low,middle low,2,Islam,No,Cat3,low,good,No-use
+24,middle low,middle high,1,Islam,No,Cat3,middle high,good,No-use
+42,low,middle high,9,Islam,No,Cat3,middle low,bad,No-use
+43,low,middle low,8,Islam,Yes,Cat3,low,good,No-use
+25,middle high,middle high,4,Islam,No,Cat3,middle low,good,No-use
+42,middle low,middle low,3,Islam,No,Cat3,high,good,No-use
+28,middle low,middle low,1,Islam,No,Cat2,high,good,No-use
+28,low,low,3,Islam,No,Cat3,low,good,No-use
+47,middle low,middle high,0,Islam,Yes,Cat1,middle high,good,No-use
+48,middle low,high,2,Islam,No,Cat1,middle high,good,No-use
+40,high,high,2,Other,No,Cat1,high,good,No-use
+28,middle low,middle low,1,Islam,No,Cat3,middle low,good,No-use
+25,low,high,1,Islam,No,Cat2,low,good,No-use
+32,high,high,2,Islam,No,Cat2,middle high,good,No-use
+45,high,high,0,Islam,No,Cat2,high,good,No-use
+26,high,high,1,Islam,No,Cat1,high,good,No-use
+26,high,high,0,Islam,Yes,Cat1,high,good,No-use
+31,high,high,0,Islam,Yes,Cat1,high,good,No-use
+49,high,high,7,Other,No,Cat2,high,good,No-use
+40,middle high,high,8,Islam,No,Cat3,middle high,good,No-use
+34,high,high,1,Other,Yes,Cat2,middle high,good,No-use
+36,middle low,high,5,Islam,No,Cat2,middle high,good,No-use
+20,middle low,middle low,2,Islam,No,Cat2,middle low,bad,No-use
+43,high,high,5,Islam,Yes,Cat1,high,good,No-use
+37,middle high,high,7,Islam,No,Cat2,low,good,No-use
+21,middle low,middle high,0,Islam,No,Cat3,high,good,No-use
+49,high,high,6,Islam,No,Cat1,middle low,good,No-use
+42,middle high,middle high,10,Islam,No,Cat3,middle high,good,No-use
+20,middle low,middle high,1,Islam,No,Cat2,middle high,good,No-use
+47,low,middle low,2,Islam,Yes,Cat1,middle high,good,No-use
+22,middle low,middle high,1,Islam,No,Cat2,low,good,No-use
+27,middle low,high,1,Islam,Yes,Cat1,middle high,good,No-use
+24,middle low,high,1,Islam,No,Cat3,low,good,No-use
+44,high,middle low,8,Islam,No,Cat3,middle high,good,No-use
+30,middle low,middle high,3,Islam,No,Cat3,low,good,No-use
+23,middle high,high,2,Islam,No,Cat3,high,good,No-use
+25,high,high,1,Islam,Yes,Cat3,middle high,good,No-use
+47,middle low,middle high,4,Islam,No,Cat2,middle high,good,No-use
+48,middle low,middle high,8,Islam,No,Cat1,high,good,No-use
+29,middle low,middle high,1,Islam,No,Cat1,low,good,No-use
+29,middle low,middle high,1,Islam,No,Cat1,middle low,good,No-use
+21,middle high,high,0,Islam,No,Cat2,middle high,good,No-use
+21,middle high,high,1,Islam,No,Cat2,middle high,good,No-use
+29,high,high,0,Islam,Yes,Cat2,high,good,No-use
+45,middle high,high,3,Islam,No,Cat1,high,good,No-use
+33,middle low,middle high,2,Islam,No,Cat3,middle low,good,No-use
+38,high,high,1,Islam,Yes,Cat1,high,good,No-use
+24,high,high,0,Other,No,Cat1,high,good,No-use
+49,high,high,6,Other,Yes,Cat1,high,good,No-use
+24,middle low,high,1,Islam,Yes,Cat4,high,good,No-use
+28,high,high,0,Other,Yes,Cat1,high,good,No-use
+30,high,high,2,Islam,No,Cat1,high,good,No-use
+33,high,high,2,Islam,No,Cat1,high,good,No-use
+25,high,high,1,Islam,No,Cat1,middle high,good,No-use
+35,high,high,3,Other,No,Cat1,high,good,No-use
+27,middle low,high,4,Islam,No,Cat1,high,good,No-use
+24,middle low,middle low,3,Islam,Yes,Cat2,low,good,No-use
+25,middle low,middle high,0,Islam,No,Cat2,low,good,No-use
+46,middle low,high,6,Islam,No,Cat1,high,good,No-use
+26,middle low,middle low,3,Islam,No,Cat2,low,good,No-use
+38,middle low,middle low,1,Islam,Yes,Cat3,middle low,good,No-use
+47,low,middle low,3,Islam,No,Cat1,middle high,good,No-use
+41,low,middle high,10,Islam,No,Cat2,middle high,bad,No-use
+41,middle low,middle high,1,Islam,Yes,Cat2,middle high,good,No-use
+28,high,high,5,Islam,No,Cat2,low,good,No-use
+17,middle low,middle low,3,Islam,No,Cat3,low,good,No-use
+27,middle low,middle high,5,Islam,No,Cat2,low,good,No-use
+27,low,middle low,4,Islam,No,Cat3,low,bad,No-use
+19,middle low,middle high,0,Islam,Yes,Cat2,middle low,good,No-use
+27,middle low,high,3,Islam,Yes,Cat3,middle low,good,No-use
+26,high,middle high,4,Islam,No,Cat2,middle high,good,No-use
+23,middle low,high,2,Islam,No,Cat3,middle high,good,No-use
+40,middle high,middle high,3,Islam,No,Cat3,middle low,good,No-use
+22,high,high,0,Islam,No,Cat1,low,good,No-use
+44,middle high,high,4,Islam,Yes,Cat1,middle high,good,No-use
+29,middle low,middle high,2,Islam,No,Cat3,low,good,No-use
+26,middle low,middle high,3,Islam,No,Cat3,low,good,No-use
+45,high,high,1,Islam,Yes,Cat3,middle high,good,No-use
+32,middle high,middle high,7,Islam,Yes,Cat2,middle high,good,No-use
+21,high,high,1,Islam,No,Cat1,high,good,No-use
+31,middle low,middle low,4,Islam,No,Cat3,middle high,good,No-use
+21,middle high,high,0,Islam,No,Cat1,middle high,good,No-use
+37,high,high,1,Islam,No,Cat1,high,good,No-use
+34,high,high,3,Other,Yes,Cat3,middle high,good,No-use
+44,middle high,high,1,Islam,No,Cat1,middle high,good,No-use
+49,high,middle high,5,Islam,No,Cat2,middle high,good,No-use
+26,middle low,middle high,2,Islam,No,Cat3,middle high,good,No-use
+38,low,middle low,1,Islam,No,Cat2,high,bad,No-use
+36,middle low,middle high,5,Islam,No,Cat2,middle high,good,No-use
+26,middle high,high,2,Islam,No,Cat3,middle high,good,No-use
+20,middle low,middle high,1,Other,No,Cat3,middle low,good,No-use
+44,middle low,low,3,Islam,Yes,Cat3,middle low,good,No-use
+31,middle high,high,2,Islam,No,Cat1,middle low,bad,No-use
+45,high,high,1,Islam,No,Cat1,middle high,good,No-use
+36,middle low,middle high,2,Islam,No,Cat3,middle low,bad,No-use
+43,low,middle high,2,Islam,Yes,Cat2,middle low,bad,No-use
+25,middle high,high,0,Islam,No,Cat1,middle high,good,No-use
+48,middle high,high,3,Islam,No,Cat3,low,good,No-use
+30,high,high,0,Other,Yes,Cat1,middle high,good,No-use
+48,low,middle low,8,Islam,No,Cat3,low,good,No-use
+28,middle high,high,1,Islam,No,Cat3,low,bad,No-use
+26,high,high,1,Islam,No,Cat1,middle high,good,No-use
+26,middle high,middle high,3,Islam,Yes,Cat2,high,good,No-use
+24,high,high,2,Islam,No,Cat3,middle high,good,No-use
+21,middle high,middle high,2,Islam,No,Cat2,middle low,good,No-use
+30,high,high,2,Other,No,Cat3,low,good,No-use
+20,high,high,1,Islam,No,Cat1,high,good,No-use
+33,high,high,2,Islam,No,Cat1,middle high,good,No-use
+30,high,high,0,Other,Yes,Cat3,middle high,good,No-use
+47,high,high,1,Islam,Yes,Cat1,middle high,good,No-use
+35,high,high,2,Other,No,Cat3,middle high,good,No-use
+30,middle low,high,2,Islam,No,Cat3,high,good,No-use
+33,high,high,3,Islam,No,Cat1,high,good,No-use
+45,high,high,4,Islam,No,Cat2,middle high,good,No-use
+41,high,high,2,Islam,No,Cat1,high,good,No-use
+32,high,high,1,Islam,Yes,Cat1,middle high,good,No-use
+43,high,high,5,Islam,No,Cat1,high,good,No-use
+44,high,high,3,Islam,No,Cat2,high,good,No-use
+21,low,middle high,4,Islam,No,Cat3,middle low,good,No-use
+44,middle high,high,2,Islam,No,Cat1,high,bad,No-use
+23,high,high,2,Islam,No,Cat2,high,good,No-use
+47,low,middle low,4,Islam,No,Cat2,middle low,good,No-use
+47,low,low,7,Islam,No,Cat2,middle high,bad,No-use
+35,high,high,2,Islam,Yes,Cat2,high,good,No-use
+32,middle low,high,4,Islam,No,Cat3,middle low,good,No-use
+45,low,high,5,Islam,No,Cat1,middle low,bad,No-use
+22,middle low,middle low,2,Islam,No,Cat3,low,good,No-use
+23,low,low,3,Islam,No,Cat2,low,bad,No-use
+30,high,high,0,Islam,Yes,Cat1,high,good,No-use
+44,low,middle high,0,Islam,No,Cat2,middle high,good,No-use
+40,middle high,middle high,1,Islam,Yes,Cat3,middle high,good,No-use
+34,high,high,4,Islam,No,Cat2,middle high,good,No-use
+37,middle high,high,1,Islam,No,Cat2,high,good,No-use
+49,middle high,high,5,Islam,No,Cat1,high,good,No-use
+26,high,high,1,Islam,No,Cat1,high,good,No-use
+22,high,high,0,Islam,No,Cat2,high,good,No-use
+20,middle high,high,0,Islam,Yes,Cat2,high,good,No-use
+47,high,high,4,Islam,No,Cat1,high,good,No-use
+49,middle low,middle low,8,Islam,Yes,Cat3,low,good,No-use
+22,middle low,high,1,Islam,No,Cat2,high,good,No-use
+22,middle high,middle high,2,Islam,No,Cat3,high,good,No-use
+25,middle high,middle low,2,Islam,No,Cat3,middle low,good,No-use
+32,middle low,high,0,Islam,Yes,Cat3,high,good,No-use
+28,high,high,0,Other,No,Cat1,middle high,good,No-use
+30,middle low,high,4,Islam,Yes,Cat1,high,good,No-use
+45,middle low,high,2,Islam,Yes,Cat2,high,good,No-use
+49,middle low,low,10,Islam,Yes,Cat2,high,good,No-use
+34,high,high,2,Islam,Yes,Cat1,high,good,No-use
+25,middle low,high,1,Islam,No,Cat2,middle low,good,No-use
+42,low,middle high,12,Islam,No,Cat3,middle high,good,No-use
+48,middle low,low,3,Islam,Yes,Cat4,middle high,good,No-use
+35,middle high,high,5,Islam,Yes,Cat2,middle low,good,No-use
+33,middle low,middle high,1,Islam,No,Cat3,high,good,No-use
+20,middle low,high,0,Islam,No,Cat3,middle low,good,No-use
+36,middle low,middle high,4,Islam,No,Cat3,low,bad,No-use
+19,middle high,middle high,2,Islam,No,Cat3,middle low,good,No-use
+27,middle high,middle low,3,Islam,No,Cat3,middle low,good,No-use
+30,low,middle low,4,Islam,No,Cat4,low,good,No-use
+31,middle high,high,3,Islam,Yes,Cat3,middle low,good,No-use
+44,low,low,11,Islam,No,Cat4,low,bad,No-use
+24,middle high,middle high,2,Islam,No,Cat3,middle high,good,No-use
+18,middle high,high,0,Islam,Yes,Cat3,low,good,No-use
+45,low,middle low,6,Islam,No,Cat3,middle high,bad,No-use
+25,middle low,middle low,3,Islam,Yes,Cat3,low,good,No-use
+36,middle high,high,6,Islam,No,Cat2,high,good,No-use
+30,low,low,5,Islam,No,Cat2,middle low,good,No-use
+32,middle low,high,2,Islam,No,Cat3,middle high,good,No-use
+42,low,high,11,Other,No,Cat2,middle low,bad,No-use
+22,middle low,high,0,Islam,No,Cat3,middle high,good,No-use
+36,middle low,high,2,Islam,Yes,Cat2,high,good,No-use
+27,middle low,middle high,2,Islam,No,Cat3,middle high,good,No-use
+40,middle high,high,1,Islam,No,Cat1,middle low,good,No-use
+22,middle low,middle high,2,Islam,No,Cat3,low,good,No-use
+26,middle low,high,0,Islam,No,Cat3,low,good,No-use
+31,middle high,high,0,Islam,Yes,Cat2,middle high,good,No-use
+32,high,high,1,Islam,No,Cat1,high,good,No-use
+34,middle low,middle high,3,Islam,Yes,Cat3,middle low,good,No-use
+40,middle high,middle high,1,Other,No,Cat3,high,good,No-use
+45,low,middle low,1,Islam,Yes,Cat3,middle high,good,No-use
+26,middle high,high,3,Islam,No,Cat3,middle low,good,No-use
+48,low,middle high,5,Islam,No,Cat3,middle low,good,No-use
+43,low,middle high,8,Islam,No,Cat3,low,good,No-use
+27,middle high,high,2,Islam,Yes,Cat2,middle low,good,No-use
+42,middle high,middle low,1,Islam,No,Cat3,middle high,good,No-use
+34,middle high,middle low,8,Islam,Yes,Cat2,middle high,bad,No-use
+32,middle high,middle low,4,Islam,No,Cat2,middle low,bad,No-use
+31,middle high,middle high,2,Islam,Yes,Cat2,middle high,good,No-use
+22,middle low,middle high,1,Islam,No,Cat3,middle high,good,No-use
+27,middle high,high,0,Islam,No,Cat3,middle high,good,No-use
+37,low,middle low,2,Islam,No,Cat2,middle low,bad,No-use
+22,low,middle low,0,Islam,No,Cat2,high,good,No-use
+47,high,high,4,Islam,No,Cat1,high,good,No-use
+32,high,high,4,Islam,Yes,Cat1,middle high,good,No-use
+37,middle high,middle high,2,Islam,No,Cat1,high,good,No-use
+45,low,middle high,1,Islam,No,Cat2,middle high,bad,No-use
+47,low,high,8,Islam,No,Cat3,middle high,good,No-use
+28,middle high,high,0,Islam,No,Cat3,middle low,good,No-use
+48,low,middle high,4,Islam,No,Cat3,high,bad,No-use
+26,middle low,high,1,Islam,No,Cat1,middle high,good,No-use
+21,middle high,high,0,Islam,Yes,Cat3,low,good,No-use
+20,middle low,middle high,1,Islam,No,Cat2,high,good,No-use
+39,low,low,5,Islam,Yes,Cat3,low,bad,No-use
+27,middle low,middle high,1,Islam,Yes,Cat3,high,good,No-use
+37,middle low,middle high,5,Islam,Yes,Cat3,middle low,good,No-use
+24,high,high,1,Islam,No,Cat3,middle high,good,No-use
+39,middle high,middle high,6,Islam,No,Cat3,middle high,good,No-use
+20,middle high,middle high,1,Islam,No,Cat2,middle high,good,No-use
+19,middle high,high,1,Islam,No,Cat2,middle high,good,No-use
+40,middle high,middle high,4,Islam,No,Cat2,middle low,good,No-use
+41,low,high,4,Islam,No,Cat3,middle high,good,No-use
+22,high,high,2,Islam,No,Cat1,middle high,good,No-use
+32,middle high,high,4,Islam,No,Cat1,high,good,No-use
+34,high,high,2,Other,No,Cat1,high,good,No-use
+34,high,high,2,Islam,Yes,Cat1,middle high,good,No-use
+23,high,high,2,Islam,No,Cat1,high,good,No-use
+27,high,high,1,Islam,No,Cat1,middle low,good,No-use
+46,middle high,middle low,11,Islam,Yes,Cat2,middle low,bad,No-use
+34,high,high,3,Other,No,Cat1,middle low,good,No-use
+33,high,high,5,Islam,No,Cat3,middle high,good,No-use
+25,middle high,middle high,1,Islam,No,Cat3,middle low,good,No-use
+26,high,high,1,Islam,Yes,Cat1,high,good,No-use
+48,low,middle high,4,Islam,No,Cat3,middle high,bad,No-use
+36,high,high,2,Islam,No,Cat3,middle high,good,No-use
+38,middle high,high,2,Other,No,Cat2,high,good,No-use
+44,low,middle low,7,Islam,No,Cat3,high,good,No-use
+44,middle low,middle low,1,Islam,Yes,Cat3,middle low,good,No-use
+39,middle high,middle high,1,Other,No,Cat3,high,good,No-use
+47,low,middle low,7,Islam,Yes,Cat3,middle low,good,No-use
+43,low,middle high,5,Islam,Yes,Cat3,middle low,good,No-use
+29,middle high,middle high,3,Islam,Yes,Cat2,high,good,No-use
+22,middle high,middle high,0,Islam,No,Cat2,middle low,good,No-use
+31,middle low,high,5,Islam,No,Cat3,middle low,good,No-use
+22,high,high,0,Islam,No,Cat1,middle high,good,No-use
+45,middle high,high,6,Islam,No,Cat2,high,good,No-use
+42,middle high,high,10,Islam,Yes,Cat3,middle low,good,No-use
+38,middle high,middle high,7,Islam,No,Cat3,low,good,No-use
+47,low,low,6,Islam,Yes,Cat3,low,good,No-use
+30,high,high,2,Islam,No,Cat1,high,good,No-use
+28,middle high,high,1,Islam,No,Cat3,high,good,No-use
+25,middle high,high,1,Islam,No,Cat2,low,good,No-use
+49,middle low,high,6,Other,No,Cat2,middle high,good,No-use
+23,middle high,high,2,Islam,Yes,Cat2,middle high,good,No-use
+35,middle high,high,1,Other,No,Cat2,middle high,good,No-use
+47,middle low,low,5,Other,No,Cat2,high,good,No-use
+35,middle low,middle high,0,Islam,No,Cat2,high,good,No-use
+44,middle high,high,6,Islam,No,Cat3,high,good,No-use
+48,high,high,3,Islam,No,Cat2,high,good,No-use
+43,middle low,middle high,6,Islam,Yes,Cat3,middle high,good,No-use
+21,middle low,high,2,Islam,No,Cat3,low,good,No-use
+22,high,high,0,Islam,No,Cat1,high,good,No-use
+41,middle high,middle high,5,Islam,No,Cat3,high,good,No-use
+29,middle low,high,2,Islam,Yes,Cat4,high,bad,No-use
+44,high,high,5,Other,No,Cat2,high,good,No-use
+22,high,high,0,Islam,Yes,Cat1,high,good,No-use
+23,middle low,high,4,Islam,No,Cat3,middle high,good,No-use
+22,middle low,low,0,Islam,No,Cat3,middle low,good,No-use
+35,low,middle high,0,Islam,No,Cat2,middle low,bad,No-use
+24,high,high,1,Islam,No,Cat2,middle low,good,No-use
+36,high,high,4,Islam,No,Cat1,high,good,No-use
+47,low,middle low,2,Islam,No,Cat2,high,good,No-use
+40,high,high,3,Islam,No,Cat3,high,good,No-use
+29,high,high,1,Islam,No,Cat1,middle high,good,No-use
+49,middle high,high,6,Islam,No,Cat1,high,good,No-use
+49,middle high,high,9,Islam,No,Cat1,high,good,No-use
+47,high,high,2,Islam,No,Cat1,high,good,No-use
+28,high,high,3,Other,No,Cat1,high,good,No-use
+26,high,high,1,Islam,No,Cat1,high,good,No-use
+29,low,middle low,7,Islam,No,Cat2,high,good,No-use
+29,high,middle low,0,Islam,Yes,Cat2,middle low,good,No-use
+25,middle high,middle high,1,Islam,No,Cat3,high,good,No-use
+24,middle low,high,2,Islam,No,Cat3,high,good,No-use
+23,high,high,1,Islam,Yes,Cat2,high,good,No-use
+23,high,high,2,Islam,Yes,Cat3,middle high,good,No-use
+44,low,middle low,2,Islam,No,Cat2,high,good,No-use
+39,middle high,high,6,Islam,No,Cat1,high,good,No-use
+21,middle high,middle high,0,Islam,No,Cat2,middle low,good,No-use
+22,middle high,high,2,Islam,No,Cat2,middle high,good,No-use
+47,middle high,high,3,Islam,No,Cat2,middle high,good,No-use
+36,middle high,middle high,2,Islam,Yes,Cat2,high,good,No-use
+25,low,high,2,Islam,Yes,Cat3,middle high,bad,No-use
+40,high,high,2,Islam,No,Cat3,high,good,No-use
+36,middle low,middle low,0,Other,Yes,Cat3,middle high,good,No-use
+37,middle low,middle high,5,Other,Yes,Cat2,high,good,No-use
+28,low,high,2,Islam,Yes,Cat2,middle high,good,No-use
+30,middle high,middle high,5,Islam,Yes,Cat3,high,good,No-use
+16,middle high,high,1,Islam,No,Cat3,middle high,good,No-use
+32,middle low,middle high,4,Other,No,Cat2,high,good,No-use
+40,high,high,3,Other,No,Cat3,high,good,No-use
+40,low,low,2,Islam,Yes,Cat3,high,good,No-use
+45,middle high,high,2,Other,No,Cat1,high,good,No-use
+21,low,middle high,0,Islam,Yes,Cat3,high,bad,No-use
+28,high,high,1,Other,No,Cat1,middle high,good,No-use
+25,high,high,1,Other,No,Cat2,middle high,good,No-use
+44,low,middle high,4,Islam,No,Cat3,middle high,bad,No-use
+35,high,high,2,Other,No,Cat3,high,good,No-use
+49,high,high,4,Islam,No,Cat3,high,good,No-use
+39,middle high,high,1,Other,No,Cat3,high,good,No-use
+32,middle high,high,1,Other,No,Cat2,high,good,No-use
+35,low,middle low,0,Islam,Yes,Cat4,high,good,No-use
+21,low,middle low,1,Islam,Yes,Cat3,high,good,No-use
+47,high,high,1,Other,No,Cat1,high,good,No-use
+27,high,high,1,Other,No,Cat3,high,good,No-use
+31,middle low,middle low,8,Islam,No,Cat2,middle low,bad,No-use
+34,high,middle high,0,Other,Yes,Cat3,middle high,good,No-use
+30,high,high,3,Islam,Yes,Cat2,high,good,No-use
+25,high,high,0,Islam,Yes,Cat2,high,good,No-use
+28,middle high,high,3,Islam,No,Cat2,low,good,No-use
+30,middle low,middle high,4,Islam,Yes,Cat3,middle low,good,No-use
+42,middle high,middle high,8,Islam,No,Cat4,middle high,good,No-use
+23,high,high,0,Other,No,Cat2,high,good,No-use
+45,middle high,high,3,Other,No,Cat3,high,good,No-use
+21,high,high,1,Islam,No,Cat3,middle high,good,No-use
+28,high,high,1,Other,No,Cat2,high,good,No-use
+33,high,high,1,Other,Yes,Cat3,high,good,No-use
+32,low,middle low,4,Islam,No,Cat3,middle low,bad,No-use
+25,middle low,middle low,3,Islam,No,Cat3,middle high,good,No-use
+25,middle high,middle high,1,Islam,No,Cat3,low,good,No-use
+19,middle low,middle low,2,Islam,No,Cat3,low,good,No-use
+40,low,middle low,6,Islam,No,Cat3,low,bad,No-use
+24,middle low,middle low,2,Islam,No,Cat3,low,bad,No-use
+32,middle low,middle low,1,Islam,No,Cat2,low,good,No-use
+35,middle low,middle high,8,Islam,No,Cat3,middle low,good,No-use
+27,middle low,middle low,1,Islam,Yes,Cat3,middle low,bad,No-use
+23,middle low,high,2,Islam,No,Cat1,high,good,No-use
+22,middle low,high,4,Islam,No,Cat3,high,good,No-use
+49,middle low,middle high,0,Islam,No,Cat1,middle low,good,No-use
+25,middle low,middle high,0,Islam,No,Cat2,high,good,No-use
+18,middle high,high,1,Islam,No,Cat3,low,good,No-use
+43,middle high,middle high,4,Islam,No,Cat2,high,good,No-use
+37,low,middle high,0,Islam,No,Cat3,high,good,No-use
+30,middle low,middle high,2,Islam,Yes,Cat2,high,good,No-use
+29,middle high,middle low,0,Islam,No,Cat2,middle low,good,No-use
+20,middle low,middle high,3,Islam,No,Cat3,high,good,No-use
+42,middle high,middle high,3,Islam,Yes,Cat2,high,good,No-use
+23,high,high,1,Islam,No,Cat2,middle high,good,No-use
+34,middle low,middle high,7,Islam,Yes,Cat3,middle high,good,No-use
+23,middle high,middle high,6,Islam,No,Cat3,middle high,good,No-use
+38,middle high,middle high,5,Islam,No,Cat1,high,good,No-use
+37,middle low,middle high,4,Islam,No,Cat2,middle high,good,No-use
+17,middle low,middle high,1,Islam,No,Cat3,middle low,good,No-use
+39,middle high,high,3,Islam,No,Cat1,high,good,No-use
+49,low,middle high,0,Islam,No,Cat3,middle high,bad,No-use
+23,middle high,middle high,2,Islam,No,Cat2,middle low,good,No-use
+40,middle high,middle high,3,Islam,No,Cat2,middle low,bad,No-use
+32,middle low,high,5,Islam,No,Cat2,middle high,good,No-use
+18,middle low,middle high,1,Islam,No,Cat2,middle high,good,No-use
+46,low,middle low,8,Islam,No,Cat3,middle high,bad,No-use
+37,middle high,middle high,6,Islam,No,Cat2,middle low,good,No-use
+38,middle low,high,5,Other,No,Cat2,middle low,good,No-use
+37,middle low,middle high,2,Other,Yes,Cat3,middle high,good,No-use
+25,middle low,middle high,1,Islam,Yes,Cat2,low,good,No-use
+38,middle low,high,5,Islam,No,Cat3,middle high,good,No-use
+39,high,high,2,Islam,Yes,Cat1,high,good,No-use
+44,high,high,3,Islam,Yes,Cat1,high,bad,No-use
+19,high,high,0,Other,No,Cat3,high,good,No-use
+28,middle low,high,1,Islam,Yes,Cat3,high,good,No-use
+20,middle low,middle high,1,Islam,No,Cat3,high,good,No-use
+33,high,high,0,Islam,Yes,Cat3,middle high,good,No-use
+33,high,high,5,Islam,No,Cat3,high,good,No-use
+47,low,high,6,Islam,No,Cat1,high,good,No-use
+25,middle high,middle high,0,Islam,No,Cat3,high,good,No-use
+29,high,high,0,Islam,Yes,Cat2,high,good,No-use
+37,high,high,2,Other,No,Cat1,high,good,No-use
+49,low,middle high,6,Islam,No,Cat2,high,good,No-use
+48,low,low,8,Islam,Yes,Cat2,middle low,bad,No-use
+19,middle low,middle low,0,Islam,No,Cat2,middle low,good,No-use
+46,low,middle low,3,Islam,No,Cat2,low,bad,No-use
+39,low,middle low,2,Islam,No,Cat3,low,bad,No-use
+30,middle high,high,5,Islam,No,Cat1,high,good,No-use
+40,middle low,middle low,8,Islam,No,Cat2,middle low,good,No-use
+43,low,middle low,1,Islam,No,Cat3,high,bad,No-use
+29,middle high,high,4,Islam,Yes,Cat1,middle high,good,No-use
+23,middle high,middle high,2,Islam,No,Cat3,middle high,good,No-use
+24,middle low,middle low,3,Islam,No,Cat2,high,good,No-use
+47,middle high,middle high,2,Islam,No,Cat2,high,good,No-use
+35,middle high,middle high,2,Islam,Yes,Cat2,middle low,good,No-use
+19,middle high,middle high,1,Islam,No,Cat2,high,good,No-use
+45,middle low,middle high,4,Islam,Yes,Cat2,high,good,No-use
+42,middle low,high,2,Islam,No,Cat3,high,good,No-use
+47,low,low,1,Islam,No,Cat3,high,good,No-use
+25,middle low,middle low,2,Islam,No,Cat3,low,good,No-use
+20,middle low,middle high,3,Islam,No,Cat3,high,good,No-use
+33,middle high,middle high,6,Islam,No,Cat3,high,good,Long-term
+46,high,middle high,5,Islam,No,Cat1,high,good,Long-term
+35,high,high,4,Islam,No,Cat1,high,good,Long-term
+26,high,high,2,Islam,Yes,Cat1,high,good,Long-term
+36,middle high,middle high,5,Islam,Yes,Cat1,middle high,good,Long-term
+37,middle high,high,3,Islam,No,Cat1,middle high,good,Long-term
+44,middle low,high,4,Islam,No,Cat3,middle high,good,Long-term
+32,high,high,2,Islam,No,Cat1,high,good,Long-term
+25,middle low,high,6,Islam,No,Cat3,high,good,Long-term
+42,middle low,middle high,7,Islam,No,Cat3,high,good,Long-term
+30,high,high,2,Other,Yes,Cat1,high,good,Long-term
+39,high,high,4,Islam,No,Cat1,high,good,Long-term
+26,low,low,2,Islam,No,Cat3,high,good,Long-term
+30,middle low,high,3,Islam,No,Cat3,high,good,Long-term
+38,high,high,4,Other,Yes,Cat1,middle low,good,Long-term
+23,high,high,1,Islam,No,Cat1,middle low,good,Long-term
+18,middle high,high,1,Islam,No,Cat3,high,good,Long-term
+25,middle high,high,3,Islam,No,Cat2,middle high,good,Long-term
+37,high,high,2,Islam,Yes,Cat3,middle high,good,Long-term
+20,middle high,high,1,Islam,No,Cat3,middle low,good,Long-term
+45,high,high,7,Islam,No,Cat1,high,good,Long-term
+28,middle low,low,2,Islam,Yes,Cat3,middle high,good,Long-term
+33,middle low,middle low,3,Islam,No,Cat2,middle high,good,Long-term
+28,middle low,middle high,2,Islam,No,Cat3,middle high,good,Long-term
+30,middle low,high,1,Islam,Yes,Cat3,high,good,Long-term
+32,high,high,4,Islam,No,Cat2,high,good,Long-term
+48,high,middle high,7,Islam,Yes,Cat2,high,good,Long-term
+46,high,high,2,Islam,Yes,Cat1,high,good,Long-term
+32,high,high,2,Other,Yes,Cat1,high,good,Long-term
+49,high,high,10,Islam,No,Cat1,high,good,Long-term
+33,middle low,middle low,6,Islam,Yes,Cat3,high,good,Long-term
+39,high,high,3,Islam,No,Cat1,high,good,Long-term
+35,high,high,5,Other,Yes,Cat1,high,good,Long-term
+36,high,high,3,Other,No,Cat1,middle high,good,Long-term
+20,middle high,high,1,Islam,No,Cat2,high,good,Long-term
+23,high,high,1,Islam,No,Cat3,high,good,Long-term
+26,middle low,high,2,Islam,No,Cat1,middle high,good,Long-term
+25,middle high,middle high,1,Islam,No,Cat3,low,good,Long-term
+31,high,high,1,Islam,No,Cat1,high,good,Long-term
+36,high,high,2,Islam,No,Cat2,high,good,Long-term
+32,middle high,middle high,2,Islam,Yes,Cat3,high,good,Long-term
+36,high,high,3,Islam,No,Cat1,high,good,Long-term
+40,high,high,3,Islam,No,Cat1,high,good,Long-term
+46,high,high,4,Islam,No,Cat1,high,good,Long-term
+42,high,high,8,Other,No,Cat1,high,good,Long-term
+39,high,high,4,Islam,Yes,Cat1,high,good,Long-term
+34,high,high,2,Islam,No,Cat1,high,good,Long-term
+36,high,high,3,Islam,No,Cat1,high,good,Long-term
+37,high,high,3,Islam,No,Cat1,high,good,Long-term
+36,high,high,4,Other,No,Cat1,high,good,Long-term
+38,high,high,2,Islam,No,Cat1,high,good,Long-term
+27,middle high,middle high,1,Other,Yes,Cat2,high,good,Long-term
+37,high,middle high,8,Islam,No,Cat1,high,good,Long-term
+24,low,high,1,Islam,Yes,Cat4,middle low,bad,Long-term
+42,middle low,high,8,Islam,No,Cat1,high,good,Long-term
+31,high,high,3,Other,Yes,Cat4,high,good,Long-term
+34,middle low,middle high,2,Islam,No,Cat3,middle high,good,Long-term
+34,high,high,4,Islam,No,Cat3,middle high,good,Long-term
+36,high,high,4,Other,Yes,Cat1,high,good,Long-term
+47,high,high,8,Islam,No,Cat1,high,good,Long-term
+34,high,high,3,Islam,No,Cat1,high,good,Long-term
+44,high,high,6,Other,No,Cat1,middle high,good,Long-term
+21,high,high,1,Islam,No,Cat1,high,good,Long-term
+42,high,high,6,Islam,No,Cat1,middle high,good,Long-term
+44,high,high,4,Islam,Yes,Cat2,middle high,good,Long-term
+19,high,high,1,Islam,No,Cat2,middle high,good,Long-term
+35,low,middle high,7,Islam,Yes,Cat2,middle high,bad,Long-term
+24,high,high,1,Islam,No,Cat3,middle low,good,Long-term
+32,middle high,high,7,Other,No,Cat1,middle high,good,Long-term
+31,middle high,middle high,2,Islam,Yes,Cat3,middle high,good,Long-term
+47,middle high,high,11,Islam,Yes,Cat2,middle high,good,Long-term
+38,high,high,6,Islam,Yes,Cat3,middle high,good,Long-term
+40,high,high,4,Islam,No,Cat1,middle high,good,Long-term
+35,middle high,middle high,4,Islam,No,Cat3,middle low,good,Long-term
+26,middle high,high,3,Islam,No,Cat3,high,good,Long-term
+23,high,middle high,3,Islam,No,Cat3,middle high,good,Long-term
+40,high,high,6,Other,Yes,Cat1,high,good,Long-term
+37,high,high,3,Islam,No,Cat1,high,good,Long-term
+39,high,high,5,Islam,No,Cat2,high,good,Long-term
+25,high,high,2,Islam,No,Cat2,high,good,Long-term
+48,high,high,4,Other,No,Cat1,high,good,Long-term
+31,high,high,3,Islam,No,Cat1,high,good,Long-term
+26,high,high,1,Other,No,Cat2,high,good,Long-term
+44,high,high,5,Islam,Yes,Cat1,high,good,Long-term
+29,high,high,1,Islam,Yes,Cat2,high,good,Long-term
+36,middle low,low,6,Islam,No,Cat2,low,good,Long-term
+29,high,high,2,Islam,Yes,Cat1,middle high,good,Long-term
+37,middle low,middle high,7,Islam,No,Cat3,high,good,Long-term
+28,middle high,middle high,3,Islam,No,Cat1,middle low,good,Long-term
+40,middle low,middle high,6,Islam,No,Cat1,middle low,good,Long-term
+33,high,high,4,Islam,No,Cat1,high,good,Long-term
+22,high,high,1,Islam,No,Cat1,middle low,good,Long-term
+35,middle high,high,5,Islam,Yes,Cat1,middle high,bad,Long-term
+32,high,high,3,Other,No,Cat3,middle high,good,Long-term
+35,high,high,5,Islam,Yes,Cat1,middle high,good,Long-term
+29,high,high,2,Islam,No,Cat1,high,good,Long-term
+23,middle high,middle high,2,Islam,Yes,Cat3,high,good,Long-term
+35,high,high,2,Islam,Yes,Cat1,high,good,Long-term
+36,high,high,3,Islam,Yes,Cat2,high,good,Long-term
+32,high,high,2,Islam,Yes,Cat1,high,good,Long-term
+30,high,low,4,Islam,No,Cat3,middle high,good,Long-term
+36,high,high,4,Other,No,Cat2,high,good,Long-term
+33,high,high,3,Islam,No,Cat3,high,good,Long-term
+33,middle high,high,5,Other,No,Cat3,middle high,good,Long-term
+43,middle low,high,13,Islam,No,Cat2,middle high,good,Long-term
+35,middle high,middle high,6,Islam,No,Cat2,middle high,good,Long-term
+38,high,high,5,Islam,No,Cat1,middle high,good,Long-term
+25,middle high,low,4,Islam,No,Cat3,low,good,Long-term
+26,middle high,middle high,2,Islam,No,Cat3,middle low,good,Long-term
+24,high,high,1,Islam,No,Cat3,high,good,Long-term
+22,middle high,high,1,Islam,No,Cat4,high,good,Long-term
+33,middle low,middle high,5,Islam,Yes,Cat2,low,good,Long-term
+45,middle high,middle high,7,Islam,No,Cat3,high,good,Long-term
+29,high,high,2,Islam,Yes,Cat1,middle high,good,Long-term
+47,middle low,middle low,7,Islam,No,Cat2,high,good,Long-term
+36,middle high,middle low,6,Islam,No,Cat3,middle low,good,Long-term
+45,middle high,middle high,8,Islam,No,Cat2,middle high,good,Long-term
+47,high,high,6,Islam,Yes,Cat1,high,good,Long-term
+43,middle high,high,2,Islam,Yes,Cat2,high,good,Long-term
+44,high,high,7,Islam,No,Cat3,middle low,good,Long-term
+24,middle low,high,2,Islam,No,Cat3,middle high,good,Long-term
+28,high,high,2,Islam,Yes,Cat1,middle high,good,Long-term
+34,high,high,5,Islam,No,Cat3,high,good,Long-term
+31,middle high,high,4,Islam,No,Cat1,middle high,good,Long-term
+27,high,high,3,Islam,No,Cat1,high,good,Long-term
+27,middle high,middle high,1,Islam,Yes,Cat3,high,good,Long-term
+26,high,high,1,Islam,Yes,Cat1,middle high,good,Long-term
+36,middle high,high,7,Islam,No,Cat2,middle low,good,Long-term
+35,high,high,4,Other,No,Cat3,middle high,good,Long-term
+38,high,high,6,Islam,No,Cat3,middle high,good,Long-term
+44,high,high,7,Islam,No,Cat2,high,good,Long-term
+25,high,high,1,Islam,No,Cat1,high,good,Long-term
+25,high,high,2,Other,No,Cat1,middle high,good,Long-term
+41,high,high,4,Islam,No,Cat1,high,good,Long-term
+41,middle high,high,5,Islam,No,Cat1,middle high,good,Long-term
+24,high,high,1,Islam,Yes,Cat1,high,good,Long-term
+33,high,high,3,Islam,No,Cat3,middle high,good,Long-term
+29,high,high,3,Islam,Yes,Cat3,middle high,good,Long-term
+47,high,high,4,Islam,Yes,Cat1,high,good,Long-term
+28,high,high,4,Islam,No,Cat1,middle high,good,Long-term
+21,middle low,middle low,1,Islam,No,Cat3,middle low,good,Long-term
+32,middle high,middle high,6,Islam,Yes,Cat3,middle high,good,Long-term
+30,middle high,high,2,Islam,No,Cat1,high,good,Long-term
+37,high,high,5,Islam,No,Cat3,high,good,Long-term
+29,high,middle high,4,Islam,Yes,Cat3,middle low,good,Long-term
+38,high,high,3,Islam,Yes,Cat1,high,good,Long-term
+49,middle high,middle high,11,Islam,No,Cat1,high,good,Long-term
+41,middle high,middle high,5,Islam,No,Cat1,high,good,Long-term
+43,middle high,high,5,Islam,No,Cat3,middle low,bad,Long-term
+47,low,low,10,Islam,No,Cat3,middle high,good,Long-term
+22,high,high,1,Islam,No,Cat1,middle high,good,Long-term
+27,high,high,1,Other,Yes,Cat1,high,good,Long-term
+34,middle high,high,2,Other,No,Cat2,middle high,good,Long-term
+42,middle high,middle high,4,Islam,No,Cat2,high,good,Long-term
+39,high,high,3,Other,Yes,Cat1,high,good,Long-term
+36,high,high,3,Other,No,Cat2,high,good,Long-term
+21,high,high,1,Islam,No,Cat2,low,good,Long-term
+36,middle high,high,4,Other,Yes,Cat2,high,good,Long-term
+25,middle low,middle high,1,Islam,Yes,Cat4,high,good,Long-term
+41,high,high,4,Other,Yes,Cat2,high,good,Long-term
+32,high,high,4,Other,Yes,Cat2,high,good,Long-term
+41,high,high,4,Other,Yes,Cat2,high,good,Long-term
+43,high,high,3,Other,No,Cat1,high,good,Long-term
+35,high,high,3,Islam,No,Cat2,middle high,good,Long-term
+24,high,high,2,Islam,Yes,Cat1,middle high,good,Long-term
+43,high,high,6,Islam,No,Cat1,high,good,Long-term
+48,high,high,7,Other,No,Cat1,high,good,Long-term
+28,high,high,2,Islam,No,Cat1,middle high,good,Long-term
+24,high,high,1,Islam,No,Cat1,high,good,Long-term
+42,high,high,3,Islam,Yes,Cat1,high,good,Long-term
+39,high,high,3,Islam,No,Cat1,high,good,Long-term
+24,high,high,1,Islam,No,Cat1,high,good,Long-term
+33,high,middle high,5,Islam,No,Cat2,high,good,Long-term
+29,high,high,2,Islam,No,Cat3,high,good,Long-term
+44,high,high,5,Islam,No,Cat1,high,good,Long-term
+17,high,high,1,Islam,No,Cat2,high,good,Long-term
+35,middle high,high,3,Islam,No,Cat2,middle low,good,Long-term
+32,middle high,high,5,Islam,No,Cat1,middle low,good,Long-term
+27,high,high,2,Islam,Yes,Cat1,middle high,good,Long-term
+44,high,high,4,Islam,No,Cat1,high,good,Long-term
+42,high,high,5,Islam,No,Cat1,high,good,Long-term
+40,high,high,6,Islam,No,Cat1,middle high,good,Long-term
+44,high,high,3,Islam,No,Cat1,high,good,Long-term
+33,high,high,5,Islam,No,Cat2,high,good,Long-term
+35,middle low,high,3,Other,Yes,Cat3,high,bad,Long-term
+31,high,middle low,2,Other,No,Cat1,middle high,good,Long-term
+37,high,high,3,Other,No,Cat3,high,good,Long-term
+45,high,high,3,Other,No,Cat2,high,good,Long-term
+26,high,high,2,Other,No,Cat1,high,good,Long-term
+40,middle high,high,2,Other,No,Cat3,high,good,Long-term
+30,high,high,1,Other,No,Cat2,high,good,Long-term
+36,middle high,high,3,Other,Yes,Cat3,high,good,Long-term
+33,middle high,high,3,Other,No,Cat2,high,good,Long-term
+41,high,high,5,Other,No,Cat2,high,good,Long-term
+45,middle high,middle high,6,Other,No,Cat2,high,good,Long-term
+48,high,high,6,Other,No,Cat2,high,good,Long-term
+35,high,high,3,Other,Yes,Cat3,high,good,Long-term
+37,high,high,4,Other,Yes,Cat2,high,good,Long-term
+46,high,high,3,Other,Yes,Cat1,high,good,Long-term
+38,high,high,4,Other,No,Cat3,high,good,Long-term
+30,middle high,high,7,Islam,No,Cat2,high,good,Long-term
+42,high,middle high,7,Islam,Yes,Cat1,high,good,Long-term
+35,middle low,middle low,6,Islam,No,Cat3,high,good,Long-term
+34,high,high,6,Islam,No,Cat3,high,good,Long-term
+37,high,high,4,Islam,No,Cat1,high,good,Long-term
+38,high,high,6,Islam,No,Cat1,high,good,Long-term
+30,middle high,middle high,2,Islam,No,Cat2,middle high,good,Long-term
+46,high,high,4,Islam,No,Cat1,high,good,Long-term
+31,high,high,3,Other,No,Cat2,high,good,Long-term
+41,high,high,6,Other,No,Cat1,high,good,Long-term
+41,high,high,7,Islam,No,Cat2,high,good,Long-term
+32,high,high,2,Other,Yes,Cat2,high,good,Long-term
+44,high,high,4,Islam,No,Cat1,high,good,Long-term
+39,high,high,4,Other,No,Cat1,high,good,Long-term
+39,high,high,5,Islam,No,Cat1,high,good,Long-term
+45,high,high,4,Islam,No,Cat1,high,good,Long-term
+33,high,high,3,Islam,No,Cat1,high,good,Long-term
+39,high,high,3,Other,No,Cat1,high,good,Long-term
+44,high,high,3,Islam,Yes,Cat1,high,good,Long-term
+34,middle high,middle high,6,Islam,No,Cat3,high,good,Long-term
+33,middle high,middle high,5,Islam,No,Cat3,high,good,Long-term
+34,middle low,middle low,8,Islam,No,Cat2,middle low,good,Long-term
+27,middle high,middle low,5,Islam,No,Cat2,high,good,Long-term
+47,low,low,8,Islam,No,Cat3,high,bad,Long-term
+25,middle low,high,3,Islam,No,Cat1,high,bad,Long-term
+24,middle high,high,5,Islam,No,Cat1,middle low,bad,Long-term
+41,high,high,4,Islam,Yes,Cat1,high,good,Long-term
+29,middle high,middle high,4,Islam,No,Cat3,high,good,Short-term
+27,middle low,middle low,5,Islam,No,Cat3,low,good,Short-term
+40,middle high,high,5,Islam,No,Cat1,middle low,good,Short-term
+30,middle low,middle low,6,Islam,No,Cat3,low,good,Short-term
+24,high,high,1,Islam,Yes,Cat1,high,good,Short-term
+36,high,high,2,Islam,Yes,Cat1,high,good,Short-term
+17,middle low,middle low,1,Islam,No,Cat3,middle low,good,Short-term
+28,low,middle low,4,Islam,No,Cat2,middle high,good,Short-term
+27,middle low,high,1,Islam,No,Cat1,high,good,Short-term
+21,middle high,middle high,1,Islam,No,Cat3,middle high,good,Short-term
+30,middle low,middle low,4,Islam,No,Cat2,high,good,Short-term
+48,high,high,16,Islam,No,Cat1,high,good,Short-term
+29,middle low,high,3,Islam,Yes,Cat3,middle high,good,Short-term
+29,high,high,2,Islam,No,Cat3,high,good,Short-term
+20,middle high,high,2,Islam,No,Cat1,middle high,good,Short-term
+28,high,high,1,Islam,No,Cat3,middle low,good,Short-term
+32,middle low,middle high,5,Islam,Yes,Cat2,middle high,good,Short-term
+27,middle high,middle high,1,Islam,Yes,Cat3,middle high,good,Short-term
+25,middle low,middle high,1,Islam,No,Cat3,low,good,Short-term
+43,high,high,3,Islam,No,Cat1,high,good,Short-term
+35,high,high,2,Islam,No,Cat2,high,good,Short-term
+30,high,high,1,Islam,No,Cat1,high,good,Short-term
+29,low,high,3,Islam,No,Cat4,high,bad,Short-term
+33,middle high,high,8,Islam,No,Cat3,high,good,Short-term
+37,middle high,high,5,Islam,Yes,Cat2,high,good,Short-term
+27,middle low,high,3,Islam,No,Cat4,high,good,Short-term
+33,middle low,high,3,Islam,No,Cat2,high,good,Short-term
+35,middle low,middle high,6,Islam,Yes,Cat3,middle high,good,Short-term
+20,middle high,middle high,2,Islam,No,Cat2,high,good,Short-term
+26,middle low,high,3,Islam,No,Cat3,high,good,Short-term
+24,middle high,middle high,2,Islam,No,Cat3,middle high,good,Short-term
+45,low,middle high,3,Islam,No,Cat3,middle low,good,Short-term
+34,middle high,high,4,Islam,No,Cat1,middle high,good,Short-term
+49,high,middle high,13,Islam,No,Cat1,high,good,Short-term
+33,high,high,5,Islam,No,Cat1,high,good,Short-term
+33,middle high,middle high,8,Islam,No,Cat3,high,good,Short-term
+24,middle high,high,3,Islam,No,Cat1,high,good,Short-term
+30,middle low,middle low,4,Islam,No,Cat2,low,good,Short-term
+27,middle low,high,4,Islam,No,Cat2,low,good,Short-term
+23,high,middle high,1,Islam,No,Cat2,middle low,good,Short-term
+35,high,high,4,Islam,No,Cat1,high,good,Short-term
+35,high,high,1,Other,No,Cat1,high,good,Short-term
+40,high,high,2,Other,Yes,Cat1,high,good,Short-term
+29,middle high,middle high,1,Islam,No,Cat3,middle high,good,Short-term
+33,middle high,middle high,3,Islam,No,Cat3,middle high,good,Short-term
+36,high,high,6,Other,No,Cat1,middle low,bad,Short-term
+36,high,high,4,Other,No,Cat1,high,good,Short-term
+41,high,high,1,Islam,No,Cat3,middle high,good,Short-term
+38,middle high,high,3,Islam,No,Cat3,middle low,good,Short-term
+29,middle low,high,3,Islam,No,Cat3,middle high,good,Short-term
+19,high,high,1,Islam,No,Cat1,middle high,good,Short-term
+34,middle low,middle high,2,Islam,No,Cat2,middle high,good,Short-term
+26,middle low,high,3,Islam,No,Cat3,high,good,Short-term
+22,high,high,1,Islam,No,Cat2,middle high,good,Short-term
+42,high,high,7,Islam,No,Cat2,high,good,Short-term
+27,middle high,high,2,Islam,No,Cat3,middle low,good,Short-term
+27,high,high,2,Islam,No,Cat1,high,good,Short-term
+39,high,middle high,1,Islam,Yes,Cat2,middle low,good,Short-term
+21,high,high,1,Islam,No,Cat3,low,good,Short-term
+36,middle low,middle high,7,Islam,No,Cat3,middle high,good,Short-term
+29,low,middle low,5,Islam,Yes,Cat1,middle low,good,Short-term
+29,middle low,middle high,4,Islam,No,Cat2,low,good,Short-term
+22,middle high,middle low,2,Islam,No,Cat2,low,good,Short-term
+20,middle low,middle high,1,Islam,No,Cat2,low,good,Short-term
+33,middle high,high,4,Islam,Yes,Cat2,high,good,Short-term
+27,middle high,middle high,3,Islam,No,Cat2,middle high,good,Short-term
+25,high,high,3,Islam,No,Cat1,high,good,Short-term
+25,high,middle high,2,Islam,No,Cat3,middle high,good,Short-term
+32,middle low,middle high,4,Islam,No,Cat3,middle low,good,Short-term
+39,middle high,high,2,Islam,No,Cat1,middle high,good,Short-term
+31,middle high,middle high,3,Islam,No,Cat2,low,bad,Short-term
+26,high,high,4,Islam,No,Cat3,high,good,Short-term
+30,middle high,middle high,7,Islam,No,Cat3,high,good,Short-term
+43,middle high,middle high,5,Islam,Yes,Cat3,middle high,good,Short-term
+34,middle low,high,4,Islam,No,Cat3,middle high,good,Short-term
+43,high,high,3,Islam,No,Cat1,high,good,Short-term
+32,high,high,3,Other,No,Cat1,high,good,Short-term
+41,high,high,5,Islam,No,Cat1,high,good,Short-term
+32,high,high,3,Other,No,Cat1,high,good,Short-term
+46,high,high,4,Islam,No,Cat1,high,good,Short-term
+40,middle high,high,3,Islam,Yes,Cat1,high,good,Short-term
+21,high,high,1,Islam,No,Cat2,middle high,good,Short-term
+32,high,high,3,Islam,No,Cat1,high,good,Short-term
+25,high,high,1,Other,No,Cat3,middle high,good,Short-term
+24,high,high,1,Islam,No,Cat1,middle high,good,Short-term
+21,middle low,middle high,1,Islam,Yes,Cat3,middle low,good,Short-term
+22,high,high,1,Islam,No,Cat3,middle high,good,Short-term
+32,high,high,4,Islam,No,Cat1,middle high,good,Short-term
+30,high,high,2,Islam,Yes,Cat2,middle low,good,Short-term
+25,low,middle low,2,Islam,No,Cat2,low,good,Short-term
+31,middle high,middle high,6,Other,No,Cat3,low,good,Short-term
+19,middle low,high,1,Islam,No,Cat2,middle high,good,Short-term
+33,middle low,middle low,7,Islam,Yes,Cat2,middle high,good,Short-term
+24,middle low,middle low,2,Islam,No,Cat3,high,good,Short-term
+19,middle high,middle high,3,Islam,No,Cat2,middle high,good,Short-term
+27,middle low,middle low,5,Islam,No,Cat3,middle high,good,Short-term
+32,high,high,2,Other,Yes,Cat1,high,good,Short-term
+32,high,high,2,Islam,Yes,Cat1,middle high,good,Short-term
+29,low,middle high,5,Islam,No,Cat3,middle high,good,Short-term
+23,middle high,high,1,Islam,No,Cat2,middle high,good,Short-term
+34,middle low,high,7,Islam,No,Cat2,middle high,good,Short-term
+27,middle low,high,1,Islam,No,Cat3,middle high,good,Short-term
+37,high,high,4,Islam,No,Cat3,middle low,good,Short-term
+26,middle high,high,4,Islam,No,Cat2,middle high,good,Short-term
+31,middle low,middle high,7,Islam,No,Cat3,middle high,good,Short-term
+44,high,high,11,Islam,No,Cat1,high,good,Short-term
+35,middle high,high,4,Islam,No,Cat1,high,good,Short-term
+23,high,high,2,Islam,No,Cat3,high,good,Short-term
+24,middle low,high,2,Islam,No,Cat1,high,good,Short-term
+24,high,high,2,Islam,No,Cat1,high,good,Short-term
+39,high,high,3,Islam,No,Cat2,high,good,Short-term
+33,middle high,high,4,Islam,No,Cat3,middle high,good,Short-term
+24,middle low,middle high,2,Islam,No,Cat2,low,good,Short-term
+35,high,high,4,Islam,No,Cat1,high,good,Short-term
+35,high,high,6,Islam,No,Cat1,high,good,Short-term
+34,high,high,2,Islam,No,Cat3,middle high,good,Short-term
+48,middle high,high,3,Islam,No,Cat2,middle high,good,Short-term
+28,high,high,1,Islam,No,Cat1,middle high,good,Short-term
+26,high,high,1,Islam,No,Cat3,middle high,good,Short-term
+43,middle high,middle high,8,Islam,No,Cat1,middle high,good,Short-term
+28,middle low,middle low,5,Islam,Yes,Cat2,high,good,Short-term
+22,middle high,high,3,Islam,No,Cat2,middle high,good,Short-term
+26,middle high,middle high,3,Islam,No,Cat3,middle high,good,Short-term
+30,middle high,high,4,Islam,No,Cat3,middle high,good,Short-term
+38,high,high,5,Islam,No,Cat2,middle high,good,Short-term
+44,high,high,8,Islam,No,Cat2,high,good,Short-term
+25,high,high,1,Other,No,Cat1,high,good,Short-term
+34,high,high,3,Islam,No,Cat1,high,good,Short-term
+26,high,high,3,Islam,No,Cat3,high,good,Short-term
+20,high,high,2,Islam,No,Cat1,middle high,good,Short-term
+39,high,high,2,Other,No,Cat1,middle high,good,Short-term
+27,middle high,high,4,Islam,No,Cat3,middle high,good,Short-term
+32,high,high,2,Islam,Yes,Cat3,high,good,Short-term
+48,middle high,high,8,Islam,Yes,Cat1,high,good,Short-term
+39,high,middle high,4,Islam,No,Cat3,high,good,Short-term
+37,high,high,3,Islam,Yes,Cat1,high,good,Short-term
+33,high,high,2,Other,Yes,Cat1,middle high,good,Short-term
+32,high,high,3,Islam,Yes,Cat1,high,good,Short-term
+25,high,high,2,Islam,No,Cat1,middle high,good,Short-term
+37,high,high,3,Islam,No,Cat2,high,good,Short-term
+40,high,high,4,Islam,No,Cat1,high,good,Short-term
+38,high,high,6,Islam,No,Cat2,high,good,Short-term
+36,high,high,4,Islam,No,Cat1,high,good,Short-term
+27,middle high,middle high,3,Islam,No,Cat2,middle low,good,Short-term
+22,low,middle high,2,Islam,No,Cat3,low,good,Short-term
+22,middle low,middle low,2,Islam,No,Cat2,middle high,good,Short-term
+30,middle high,high,3,Islam,No,Cat2,middle high,good,Short-term
+20,middle low,middle low,2,Islam,No,Cat3,middle low,bad,Short-term
+34,high,high,2,Islam,No,Cat1,high,good,Short-term
+31,middle high,high,5,Islam,No,Cat3,low,good,Short-term
+30,middle high,middle high,3,Islam,Yes,Cat3,middle low,good,Short-term
+44,middle high,high,5,Islam,Yes,Cat1,high,good,Short-term
+24,middle high,middle high,3,Islam,Yes,Cat2,low,good,Short-term
+19,high,high,2,Islam,No,Cat1,high,good,Short-term
+28,high,high,5,Islam,No,Cat2,high,good,Short-term
+27,high,high,1,Other,Yes,Cat1,middle high,good,Short-term
+29,middle high,middle high,3,Islam,No,Cat2,low,good,Short-term
+37,high,high,3,Islam,No,Cat2,high,good,Short-term
+32,middle low,middle low,8,Islam,No,Cat2,low,good,Short-term
+21,middle low,middle low,1,Islam,No,Cat4,middle high,good,Short-term
+33,middle low,middle high,7,Islam,Yes,Cat3,low,good,Short-term
+23,middle low,middle high,2,Islam,No,Cat3,low,good,Short-term
+36,middle low,middle low,5,Islam,No,Cat3,high,good,Short-term
+33,middle low,high,3,Islam,No,Cat3,high,good,Short-term
+35,high,high,2,Islam,Yes,Cat1,high,good,Short-term
+25,middle low,middle high,4,Islam,No,Cat3,middle high,good,Short-term
+29,middle low,high,4,Islam,Yes,Cat2,high,good,Short-term
+23,middle high,middle high,1,Islam,No,Cat2,middle low,good,Short-term
+19,middle high,middle high,1,Islam,No,Cat2,low,good,Short-term
+35,low,middle low,6,Islam,No,Cat2,middle low,bad,Short-term
+25,middle high,middle high,3,Islam,No,Cat3,middle low,good,Short-term
+40,middle high,high,6,Islam,No,Cat1,middle high,good,Short-term
+17,middle high,high,1,Islam,No,Cat2,low,good,Short-term
+25,middle low,high,3,Islam,No,Cat3,middle high,good,Short-term
+24,middle high,middle high,1,Islam,No,Cat3,middle low,good,Short-term
+23,high,high,1,Islam,No,Cat3,middle high,good,Short-term
+25,middle low,high,3,Islam,No,Cat3,middle low,good,Short-term
+30,low,middle high,4,Islam,No,Cat3,high,good,Short-term
+31,low,low,3,Islam,No,Cat4,middle low,bad,Short-term
+26,middle high,high,2,Islam,No,Cat3,middle high,good,Short-term
+28,middle high,high,2,Islam,No,Cat2,middle high,good,Short-term
+30,middle high,middle high,3,Islam,No,Cat3,low,good,Short-term
+29,middle high,high,5,Islam,No,Cat1,middle low,good,Short-term
+24,low,middle high,4,Islam,No,Cat3,middle high,good,Short-term
+26,middle high,high,2,Islam,No,Cat1,middle high,good,Short-term
+25,middle high,middle high,3,Islam,No,Cat3,middle high,good,Short-term
+35,high,high,3,Islam,No,Cat1,high,good,Short-term
+22,high,high,1,Islam,Yes,Cat2,high,good,Short-term
+19,high,high,1,Islam,No,Cat2,high,good,Short-term
+29,middle low,middle high,5,Islam,No,Cat2,high,good,Short-term
+21,middle high,high,2,Islam,No,Cat3,middle high,good,Short-term
+21,middle high,middle high,1,Islam,No,Cat3,middle high,good,Short-term
+41,low,high,9,Islam,No,Cat2,low,good,Short-term
+37,middle low,high,3,Islam,No,Cat2,middle high,good,Short-term
+27,high,high,3,Islam,No,Cat3,high,bad,Short-term
+26,middle low,middle high,2,Islam,No,Cat2,middle high,good,Short-term
+37,high,high,6,Islam,Yes,Cat3,high,good,Short-term
+25,middle high,middle high,3,Islam,No,Cat2,low,good,Short-term
+32,high,middle high,3,Islam,No,Cat2,high,good,Short-term
+34,low,high,4,Islam,No,Cat3,high,bad,Short-term
+23,high,high,2,Islam,Yes,Cat2,high,good,Short-term
+28,middle high,high,2,Islam,No,Cat3,high,good,Short-term
+24,middle high,high,1,Islam,No,Cat3,high,good,Short-term
+32,middle low,middle high,4,Islam,Yes,Cat2,middle low,good,Short-term
+22,low,middle low,3,Islam,No,Cat3,low,bad,Short-term
+25,middle high,middle high,1,Islam,No,Cat2,low,good,Short-term
+25,middle low,middle high,2,Islam,No,Cat2,high,good,Short-term
+38,middle low,middle high,3,Islam,No,Cat2,high,good,Short-term
+33,middle low,middle low,2,Islam,No,Cat3,high,good,Short-term
+41,high,high,8,Islam,No,Cat1,high,good,Short-term
+29,middle high,middle high,4,Islam,No,Cat3,high,good,Short-term
+22,middle high,high,1,Islam,Yes,Cat1,high,good,Short-term
+29,middle high,middle high,6,Islam,No,Cat3,middle high,good,Short-term
+26,middle high,high,3,Islam,No,Cat3,middle high,good,Short-term
+28,middle low,middle high,3,Islam,No,Cat3,high,good,Short-term
+27,high,high,1,Other,No,Cat3,high,good,Short-term
+29,middle low,high,2,Islam,No,Cat3,middle low,good,Short-term
+24,middle high,high,2,Islam,No,Cat3,middle high,good,Short-term
+29,middle high,high,3,Islam,No,Cat3,middle low,good,Short-term
+38,middle high,high,7,Islam,No,Cat3,middle low,good,Short-term
+23,middle high,middle low,2,Islam,Yes,Cat3,middle low,good,Short-term
+20,high,middle high,1,Islam,No,Cat3,high,good,Short-term
+32,low,high,4,Islam,No,Cat3,middle low,good,Short-term
+25,middle low,middle high,2,Islam,No,Cat3,low,good,Short-term
+26,low,middle low,3,Islam,Yes,Cat3,middle low,good,Short-term
+23,low,middle low,3,Islam,No,Cat3,middle low,bad,Short-term
+23,high,high,3,Islam,No,Cat3,middle high,good,Short-term
+28,middle high,high,5,Islam,No,Cat2,high,good,Short-term
+22,high,high,3,Islam,No,Cat3,middle low,good,Short-term
+28,middle low,high,4,Islam,No,Cat3,high,good,Short-term
+26,middle high,middle high,3,Islam,No,Cat3,middle high,good,Short-term
+26,middle low,middle high,2,Islam,No,Cat3,middle high,good,Short-term
+24,high,middle high,3,Islam,No,Cat3,middle high,good,Short-term
+29,high,high,3,Islam,Yes,Cat1,high,good,Short-term
+29,middle high,high,4,Islam,Yes,Cat1,middle high,good,Short-term
+42,high,high,5,Islam,No,Cat1,high,good,Short-term
+27,high,high,2,Islam,No,Cat3,high,good,Short-term
+35,middle high,high,5,Islam,No,Cat1,high,good,Short-term
+21,middle high,high,1,Islam,No,Cat3,middle low,good,Short-term
+21,low,middle high,1,Islam,No,Cat3,middle high,bad,Short-term
+22,middle high,high,1,Islam,No,Cat3,middle high,good,Short-term
+28,middle high,middle high,4,Islam,No,Cat3,middle high,good,Short-term
+22,middle high,high,1,Other,Yes,Cat1,high,good,Short-term
+23,middle high,middle low,1,Islam,No,Cat3,middle high,good,Short-term
+28,middle high,middle high,2,Other,No,Cat2,middle high,good,Short-term
+30,high,high,3,Other,Yes,Cat2,high,good,Short-term
+25,middle high,high,3,Islam,Yes,Cat3,high,good,Short-term
+33,high,high,4,Islam,No,Cat2,middle high,good,Short-term
+33,middle high,high,6,Islam,No,Cat3,middle low,good,Short-term
+30,high,high,2,Other,Yes,Cat3,middle high,good,Short-term
+22,middle low,high,1,Islam,No,Cat3,middle high,good,Short-term
+38,middle high,middle high,2,Other,No,Cat3,high,good,Short-term
+35,high,middle high,2,Other,No,Cat3,high,good,Short-term
+34,middle low,middle low,4,Other,No,Cat3,middle low,good,Short-term
+39,high,high,2,Other,No,Cat3,high,good,Short-term
+47,high,middle high,4,Islam,No,Cat1,middle high,good,Short-term
+38,high,high,2,Islam,Yes,Cat1,high,good,Short-term
+43,high,high,5,Islam,No,Cat1,high,good,Short-term
+21,middle high,middle high,1,Islam,No,Cat2,middle low,good,Short-term
+30,middle high,high,2,Islam,No,Cat1,middle low,good,Short-term
+27,middle high,high,2,Islam,No,Cat1,middle high,good,Short-term
+22,high,high,1,Other,No,Cat3,low,good,Short-term
+25,low,middle low,3,Islam,No,Cat2,middle high,good,Short-term
+22,low,middle high,2,Islam,No,Cat3,middle low,good,Short-term
+28,high,high,4,Islam,No,Cat2,middle high,good,Short-term
+25,middle high,middle high,2,Islam,No,Cat2,middle high,good,Short-term
+26,high,high,2,Islam,Yes,Cat3,middle high,good,Short-term
+31,middle high,middle high,3,Islam,No,Cat3,low,bad,Short-term
+32,low,middle high,4,Islam,No,Cat3,middle high,good,Short-term
+35,middle low,high,6,Islam,No,Cat3,high,good,Short-term
+24,middle low,middle high,5,Islam,No,Cat3,middle high,good,Short-term
+28,high,high,2,Islam,No,Cat1,high,good,Short-term
+36,high,high,3,Other,Yes,Cat2,high,good,Short-term
+47,high,high,5,Islam,No,Cat1,middle high,good,Short-term
+26,high,high,2,Islam,Yes,Cat1,high,good,Short-term
+22,middle high,high,2,Other,No,Cat3,high,good,Short-term
+30,high,high,2,Islam,No,Cat4,middle high,good,Short-term
+41,high,high,5,Islam,No,Cat1,high,good,Short-term
+19,high,high,1,Islam,No,Cat3,middle low,good,Short-term
+45,middle high,high,2,Other,No,Cat3,middle high,good,Short-term
+35,low,middle low,5,Islam,No,Cat2,middle low,bad,Short-term
+21,middle low,middle low,1,Islam,No,Cat3,middle low,good,Short-term
+32,low,middle low,6,Other,No,Cat2,middle high,good,Short-term
+32,middle high,high,5,Other,No,Cat3,high,good,Short-term
+46,middle low,middle high,6,Other,Yes,Cat3,high,good,Short-term
+41,low,middle low,6,Islam,No,Cat3,middle high,good,Short-term
+36,high,high,3,Other,No,Cat3,high,good,Short-term
+37,middle high,high,3,Other,No,Cat3,high,good,Short-term
+37,middle high,high,4,Other,No,Cat2,high,good,Short-term
+35,high,high,3,Other,No,Cat3,high,good,Short-term
+29,middle low,middle high,4,Islam,No,Cat3,middle low,good,Short-term
+28,high,high,2,Other,No,Cat2,high,good,Short-term
+46,high,high,4,Other,No,Cat1,high,good,Short-term
+34,high,middle high,3,Other,No,Cat2,high,good,Short-term
+43,middle high,middle high,2,Other,Yes,Cat3,high,good,Short-term
+28,high,high,3,Other,Yes,Cat3,high,good,Short-term
+28,middle high,middle high,3,Islam,Yes,Cat2,high,good,Short-term
+34,high,high,6,Islam,No,Cat2,middle low,good,Short-term
+27,middle low,high,4,Islam,No,Cat3,high,good,Short-term
+36,low,middle high,6,Islam,No,Cat3,middle low,good,Short-term
+17,middle low,middle low,0,Islam,Yes,Cat3,middle low,good,Short-term
+21,middle high,middle high,1,Islam,No,Cat3,middle low,good,Short-term
+25,middle low,middle low,1,Islam,No,Cat3,low,good,Short-term
+23,middle low,middle high,2,Islam,Yes,Cat3,middle low,good,Short-term
+25,middle low,middle low,1,Islam,No,Cat3,middle high,good,Short-term
+35,low,middle low,4,Islam,Yes,Cat4,high,good,Short-term
+32,middle high,high,4,Islam,No,Cat3,middle low,good,Short-term
+37,middle low,middle high,5,Islam,No,Cat4,middle low,good,Short-term
+31,middle high,high,4,Islam,Yes,Cat3,middle high,good,Short-term
+25,middle high,high,3,Islam,No,Cat3,high,good,Short-term
+26,middle high,high,4,Islam,No,Cat2,high,good,Short-term
+39,low,middle low,2,Islam,Yes,Cat2,high,good,Short-term
+21,middle high,middle high,2,Islam,No,Cat2,middle high,good,Short-term
+35,middle high,middle low,9,Islam,Yes,Cat3,high,good,Short-term
+20,middle low,middle low,1,Islam,No,Cat3,middle low,good,Short-term
+40,middle low,middle high,5,Islam,No,Cat3,middle high,good,Short-term
+41,middle high,middle high,7,Other,No,Cat2,high,good,Short-term
+36,middle low,high,8,Islam,No,Cat1,high,good,Short-term
+40,middle low,high,3,Other,No,Cat3,high,good,Short-term
+32,high,high,3,Islam,Yes,Cat1,high,good,Short-term
+24,middle high,high,4,Islam,No,Cat2,middle high,good,Short-term
+20,middle high,high,1,Other,No,Cat2,high,good,Short-term
+32,high,high,4,Islam,Yes,Cat1,high,good,Short-term
+22,middle low,middle low,3,Islam,Yes,Cat3,middle high,good,Short-term
+30,middle high,middle high,4,Islam,Yes,Cat2,middle low,good,Short-term
+31,high,high,3,Islam,Yes,Cat1,high,good,Short-term
+35,middle high,high,5,Islam,No,Cat1,high,good,Short-term
+38,high,high,2,Islam,No,Cat3,high,good,Short-term
+31,high,high,1,Islam,No,Cat1,high,good,Short-term
+25,high,high,2,Islam,No,Cat2,high,good,Short-term
+30,high,high,2,Islam,No,Cat1,high,good,Short-term
+22,low,middle low,2,Islam,No,Cat3,high,good,Short-term
+31,high,high,3,Islam,No,Cat1,high,good,Short-term
+29,high,high,3,Islam,No,Cat3,high,good,Short-term
+29,middle low,middle high,3,Islam,Yes,Cat3,middle low,good,Short-term
+38,high,high,3,Other,Yes,Cat3,middle high,bad,Short-term
+22,middle high,high,2,Islam,No,Cat2,high,good,Short-term
+45,high,high,3,Islam,No,Cat1,high,good,Short-term
+26,middle high,high,3,Islam,No,Cat3,middle low,good,Short-term
+37,high,high,3,Other,No,Cat3,high,good,Short-term
+36,high,high,3,Other,No,Cat2,high,good,Short-term
+33,high,high,2,Islam,No,Cat2,high,good,Short-term
+32,high,high,3,Islam,Yes,Cat1,high,good,Short-term
+35,high,high,4,Other,Yes,Cat1,high,good,Short-term
+25,high,high,1,Islam,No,Cat1,high,good,Short-term
+31,high,high,3,Islam,No,Cat4,high,good,Short-term
+25,middle low,middle high,5,Islam,No,Cat2,middle high,good,Short-term
+26,middle high,middle low,5,Islam,No,Cat2,middle low,good,Short-term
+23,middle low,middle high,3,Islam,No,Cat2,middle high,good,Short-term
+28,middle high,high,3,Islam,No,Cat1,high,good,Short-term
+34,middle high,high,3,Other,Yes,Cat3,high,good,Short-term
+46,middle high,high,9,Islam,No,Cat3,high,good,Short-term
+25,high,high,1,Islam,No,Cat1,high,good,Short-term
+21,middle low,low,3,Islam,Yes,Cat3,low,bad,Short-term
+25,middle low,middle high,4,Islam,Yes,Cat3,middle low,good,Short-term
+28,middle low,middle high,6,Islam,No,Cat2,high,good,Short-term
+36,middle low,high,11,Islam,No,Cat1,high,bad,Short-term
+46,low,middle low,9,Islam,Yes,Cat3,high,bad,Short-term
+35,middle low,middle low,6,Islam,Yes,Cat3,low,bad,No-use
+41,middle high,middle low,11,Islam,No,Cat2,middle high,good,No-use
+27,middle low,high,1,Islam,Yes,Cat1,low,good,No-use
+25,high,high,0,Islam,Yes,Cat3,high,good,No-use
+23,middle low,middle low,2,Islam,No,Cat3,middle high,good,No-use
+48,low,low,1,Islam,Yes,Cat3,middle high,bad,No-use
+23,high,high,0,Islam,Yes,Cat1,high,good,No-use
+31,middle high,high,2,Islam,No,Cat3,middle high,good,No-use
+49,high,high,1,Islam,No,Cat3,high,good,No-use
+42,middle low,middle high,2,Islam,No,Cat1,high,good,No-use
+26,middle low,high,3,Islam,No,Cat3,high,good,No-use
+21,middle low,middle low,1,Islam,No,Cat3,middle low,good,No-use
+29,middle high,high,4,Islam,No,Cat1,high,good,No-use
+38,low,middle low,12,Islam,No,Cat2,middle high,good,No-use
+25,high,high,2,Islam,No,Cat3,middle low,good,No-use
+22,high,high,0,Islam,No,Cat3,middle low,good,No-use
+20,middle high,high,0,Islam,No,Cat3,middle high,good,No-use
+35,high,high,1,Islam,No,Cat1,middle high,good,No-use
+32,middle low,middle high,1,Islam,No,Cat3,middle high,good,No-use
+38,middle low,high,3,Islam,No,Cat1,middle high,good,No-use
+27,low,middle low,4,Islam,No,Cat1,high,bad,No-use
+41,middle low,high,1,Islam,No,Cat2,middle high,good,No-use
+28,middle high,high,0,Islam,Yes,Cat1,middle high,good,No-use
+23,high,high,1,Islam,Yes,Cat3,middle high,good,No-use
+27,high,high,1,Other,Yes,Cat2,high,good,No-use
+33,high,high,2,Other,No,Cat1,high,good,No-use
+39,middle low,middle low,5,Islam,Yes,Cat3,middle low,bad,No-use
+41,middle low,middle low,5,Other,No,Cat2,middle low,good,No-use
+40,middle low,middle low,8,Islam,No,Cat1,middle high,good,No-use
+43,middle high,high,10,Islam,No,Cat3,middle high,good,No-use
+35,middle high,high,6,Islam,Yes,Cat2,middle low,good,No-use
+32,middle high,high,0,Islam,No,Cat3,high,good,No-use
+49,middle low,middle high,4,Islam,No,Cat2,middle high,good,No-use
+47,middle low,middle low,4,Islam,No,Cat3,low,good,No-use
+42,high,high,1,Islam,No,Cat2,high,good,No-use
+48,high,high,4,Other,No,Cat1,high,good,No-use
+42,high,high,3,Islam,No,Cat1,high,good,No-use
+37,high,high,2,Islam,No,Cat1,high,good,No-use
+23,middle high,middle high,1,Islam,Yes,Cat2,high,good,No-use
+24,middle high,high,0,Islam,Yes,Cat2,middle high,good,No-use
+43,middle low,middle high,3,Other,No,Cat2,middle high,good,No-use
+24,middle high,middle high,2,Islam,Yes,Cat3,middle low,good,No-use
+29,middle low,high,0,Islam,Yes,Cat3,high,good,No-use
+45,low,low,0,Other,Yes,Cat2,low,good,No-use
+31,high,high,3,Islam,Yes,Cat2,middle high,good,No-use
+44,low,high,9,Islam,No,Cat1,middle low,good,No-use
+28,middle low,middle high,1,Islam,No,Cat3,low,good,No-use
+28,middle high,high,1,Other,No,Cat2,middle low,good,No-use
+33,low,middle low,0,Islam,Yes,Cat3,middle high,good,No-use
+43,high,high,6,Islam,No,Cat1,middle high,good,No-use
+34,middle high,high,4,Islam,No,Cat1,middle high,good,No-use
+36,low,high,2,Islam,No,Cat2,middle low,good,No-use
+22,high,high,0,Islam,Yes,Cat2,high,good,No-use
+35,middle low,middle high,8,Islam,No,Cat3,middle high,bad,No-use
+25,high,high,1,Islam,No,Cat1,high,good,No-use
+43,low,middle low,8,Islam,No,Cat2,middle low,bad,No-use
+46,low,high,8,Islam,No,Cat1,high,bad,No-use
+27,middle high,high,2,Islam,No,Cat1,middle high,good,No-use
+30,low,low,7,Islam,No,Cat2,middle high,good,No-use
+25,high,high,1,Islam,No,Cat3,high,good,No-use
+42,high,high,1,Islam,Yes,Cat1,high,good,No-use
+30,low,middle high,1,Islam,No,Cat3,high,good,No-use
+27,middle high,middle high,4,Islam,No,Cat2,high,good,No-use
+45,middle low,middle high,11,Islam,No,Cat2,middle high,good,No-use
+29,middle high,high,2,Islam,No,Cat1,middle high,good,No-use
+36,low,high,1,Islam,No,Cat3,middle high,good,No-use
+49,low,middle low,8,Islam,No,Cat3,low,bad,No-use
+47,low,high,7,Islam,No,Cat2,middle high,good,No-use
+30,high,high,4,Islam,No,Cat2,high,good,No-use
+24,middle low,middle high,2,Islam,No,Cat3,low,good,No-use
+48,low,low,6,Islam,No,Cat2,middle high,bad,No-use
+47,low,middle low,2,Islam,No,Cat2,middle high,bad,No-use
+24,middle high,high,1,Islam,Yes,Cat3,middle high,good,No-use
+48,middle high,high,5,Islam,No,Cat2,middle high,good,No-use
+38,low,middle low,8,Islam,No,Cat3,middle high,bad,No-use
+45,middle high,high,0,Islam,No,Cat1,middle high,good,No-use
+43,high,high,3,Other,No,Cat2,high,good,No-use
+33,low,low,5,Islam,No,Cat3,low,bad,No-use
+37,middle high,high,7,Islam,No,Cat3,high,good,No-use
+36,middle low,low,6,Islam,No,Cat2,middle high,good,No-use
+25,middle high,high,3,Islam,No,Cat1,low,good,No-use
+49,high,high,6,Other,Yes,Cat1,high,good,No-use
+30,high,high,1,Islam,Yes,Cat1,high,good,No-use
+35,high,high,5,Islam,No,Cat1,high,good,No-use
+28,middle low,high,0,Islam,No,Cat3,low,good,No-use
+30,high,middle low,0,Islam,Yes,Cat3,middle high,good,No-use
+27,high,high,2,Islam,Yes,Cat1,high,good,No-use
+45,middle low,high,8,Islam,No,Cat2,middle high,good,No-use
+46,middle high,low,5,Islam,No,Cat3,middle low,good,No-use
+28,low,high,0,Islam,Yes,Cat4,low,good,No-use
+21,middle low,high,0,Islam,No,Cat2,middle low,good,No-use
+20,middle high,high,2,Islam,No,Cat3,middle high,good,No-use
+28,middle high,middle high,5,Islam,No,Cat3,middle high,good,No-use
+25,middle high,middle high,1,Islam,No,Cat2,middle low,good,No-use
+38,low,middle low,6,Islam,No,Cat2,low,bad,No-use
+20,middle high,high,1,Islam,No,Cat3,middle low,good,No-use
+24,middle high,high,2,Islam,No,Cat2,high,good,No-use
+39,middle high,low,1,Islam,No,Cat2,middle high,good,No-use
+25,low,middle high,1,Islam,No,Cat4,middle low,good,No-use
+23,middle high,high,4,Islam,No,Cat3,low,bad,No-use
+24,high,high,1,Islam,Yes,Cat1,middle high,good,No-use
+26,high,high,3,Islam,No,Cat1,high,good,No-use
+20,middle high,high,2,Islam,No,Cat3,middle low,good,No-use
+31,middle high,middle high,1,Islam,Yes,Cat3,high,good,No-use
+22,high,high,0,Islam,No,Cat2,low,bad,No-use
+36,middle low,middle high,6,Islam,No,Cat2,middle high,good,No-use
+45,middle high,high,0,Islam,No,Cat1,middle high,good,No-use
+47,middle low,middle low,7,Islam,No,Cat2,middle low,good,No-use
+30,middle low,middle high,1,Islam,No,Cat2,low,good,No-use
+35,high,high,3,Islam,No,Cat1,high,good,No-use
+34,middle low,middle low,9,Islam,Yes,Cat2,middle high,good,No-use
+28,high,high,1,Islam,Yes,Cat1,middle high,good,No-use
+18,middle high,high,1,Islam,No,Cat3,middle high,good,No-use
+25,middle low,middle high,2,Islam,No,Cat3,middle low,good,No-use
+27,middle high,high,0,Islam,Yes,Cat3,middle high,good,No-use
+21,high,high,1,Islam,No,Cat3,high,good,No-use
+19,high,high,1,Islam,No,Cat1,middle high,good,No-use
+26,high,high,0,Islam,No,Cat3,high,good,No-use
+28,high,high,5,Islam,No,Cat1,high,good,No-use
+38,low,middle high,4,Islam,Yes,Cat2,middle low,good,No-use
+39,middle low,middle high,10,Islam,No,Cat3,high,good,No-use
+45,middle low,middle high,6,Islam,No,Cat3,middle low,bad,No-use
+30,middle high,high,4,Other,No,Cat2,middle high,good,No-use
+47,middle low,high,2,Islam,No,Cat3,middle low,bad,No-use
+38,middle low,middle low,6,Islam,No,Cat3,high,good,No-use
+42,middle high,middle high,5,Islam,No,Cat2,middle low,good,No-use
+31,high,high,2,Islam,No,Cat1,middle low,good,No-use
+44,low,middle low,2,Islam,No,Cat3,low,good,No-use
+42,high,high,3,Islam,Yes,Cat1,high,good,No-use
+28,high,high,2,Islam,No,Cat1,middle high,good,No-use
+34,middle low,high,6,Islam,Yes,Cat3,high,good,No-use
+45,low,middle high,7,Islam,Yes,Cat1,middle high,good,No-use
+43,high,high,5,Islam,No,Cat1,middle high,good,No-use
+28,middle high,high,0,Islam,Yes,Cat3,high,good,No-use
+27,middle high,high,0,Islam,No,Cat3,middle high,good,No-use
+26,middle low,middle high,1,Islam,Yes,Cat4,high,good,No-use
+26,middle high,high,1,Other,No,Cat2,middle low,good,No-use
+37,middle high,high,4,Islam,Yes,Cat2,high,good,No-use
+48,middle high,high,11,Islam,No,Cat1,high,good,No-use
+47,middle low,middle high,12,Islam,No,Cat3,low,good,No-use
+22,middle low,high,1,Islam,No,Cat3,high,good,No-use
+48,high,high,1,Other,No,Cat1,high,good,No-use
+42,low,middle high,12,Islam,No,Cat2,high,good,No-use
+32,high,high,3,Islam,No,Cat1,high,good,No-use
+33,high,high,3,Other,Yes,Cat1,middle high,good,No-use
+45,high,high,1,Islam,Yes,Cat1,high,good,No-use
+26,middle low,middle high,1,Islam,Yes,Cat3,high,bad,No-use
+45,high,high,1,Islam,No,Cat1,high,good,No-use
+25,middle high,middle high,1,Islam,Yes,Cat2,high,good,No-use
+36,high,middle high,3,Islam,Yes,Cat3,middle low,good,No-use
+31,middle high,middle high,2,Islam,Yes,Cat3,middle high,good,No-use
+22,middle high,high,2,Islam,No,Cat3,middle high,good,No-use
+46,high,high,10,Islam,No,Cat1,middle high,good,No-use
+26,middle low,middle high,3,Islam,No,Cat3,high,good,No-use
+25,middle high,middle low,1,Islam,Yes,Cat3,middle high,good,No-use
+20,high,high,0,Other,Yes,Cat2,high,good,No-use
+31,middle high,high,3,Other,Yes,Cat2,high,good,No-use
+36,middle high,middle high,3,Other,Yes,Cat2,middle high,bad,No-use
+47,middle high,middle low,5,Islam,No,Cat4,high,good,No-use
+43,middle high,high,2,Other,No,Cat3,high,good,No-use
+20,middle high,high,0,Islam,No,Cat3,middle high,good,No-use
+24,high,high,4,Islam,No,Cat1,high,good,No-use
+33,middle low,middle low,3,Other,Yes,Cat2,high,good,No-use
+41,middle high,high,3,Other,No,Cat2,high,good,No-use
+48,middle high,high,4,Other,No,Cat2,high,good,No-use
+32,high,high,1,Other,No,Cat1,high,good,No-use
+38,middle high,middle high,4,Other,Yes,Cat3,middle low,bad,No-use
+48,middle high,high,8,Islam,No,Cat3,middle high,good,No-use
+34,low,middle high,4,Islam,Yes,Cat3,high,good,No-use
+31,low,low,6,Islam,No,Cat3,middle low,good,No-use
+46,low,middle low,7,Islam,No,Cat3,low,bad,No-use
+45,middle low,middle low,7,Islam,No,Cat3,low,bad,No-use
+34,middle high,high,4,Other,No,Cat3,low,bad,No-use
+16,middle low,high,1,Islam,No,Cat3,high,good,No-use
+18,middle high,middle low,1,Islam,No,Cat3,low,good,No-use
+22,middle low,middle low,1,Islam,No,Cat3,low,bad,No-use
+32,middle low,middle low,2,Islam,No,Cat2,high,good,No-use
+41,low,middle high,3,Islam,Yes,Cat2,high,good,No-use
+22,middle high,middle high,2,Islam,No,Cat2,high,good,No-use
+23,middle high,middle low,0,Islam,No,Cat2,middle low,good,No-use
+22,middle high,high,0,Islam,Yes,Cat3,high,good,No-use
+40,middle low,middle low,6,Islam,No,Cat2,middle low,bad,No-use
+29,middle high,high,1,Other,No,Cat2,middle high,good,No-use
+42,high,high,0,Other,Yes,Cat3,high,good,No-use
+29,middle high,high,2,Islam,No,Cat3,high,good,No-use
+31,middle high,middle low,1,Islam,No,Cat3,high,good,No-use
+28,high,high,3,Other,Yes,Cat1,high,good,No-use
+21,middle low,middle high,0,Islam,No,Cat3,high,good,No-use
+26,high,high,2,Islam,No,Cat1,middle high,good,No-use
+37,middle high,high,0,Islam,No,Cat3,high,good,No-use
+24,middle high,high,2,Islam,No,Cat2,middle low,good,No-use
+25,high,high,0,Other,No,Cat2,high,good,No-use
+22,middle low,low,0,Islam,No,Cat2,middle low,good,No-use
+45,high,high,1,Islam,No,Cat1,high,good,No-use
+47,high,high,1,Islam,No,Cat1,high,good,No-use
+28,high,high,5,Islam,Yes,Cat3,high,good,No-use
+24,middle low,middle low,4,Islam,No,Cat3,high,good,No-use
+34,middle high,middle high,6,Islam,No,Cat2,middle high,good,No-use
+47,middle low,middle high,5,Islam,No,Cat1,low,good,No-use
+31,middle high,high,2,Islam,No,Cat1,high,good,No-use
+26,low,middle high,1,Islam,No,Cat3,low,good,No-use
+25,high,high,3,Islam,No,Cat1,middle low,good,No-use
+47,low,low,4,Islam,No,Cat2,middle low,good,No-use
+48,low,low,8,Islam,No,Cat1,low,bad,No-use
+38,middle low,middle low,10,Islam,No,Cat3,middle low,good,No-use
+32,low,middle high,4,Islam,No,Cat2,middle low,bad,No-use
+47,low,middle low,2,Islam,No,Cat2,high,good,No-use
+27,high,high,3,Islam,No,Cat1,high,good,No-use
+40,low,low,0,Islam,No,Cat3,middle low,good,No-use
+46,high,high,6,Islam,No,Cat1,high,good,No-use
+33,middle high,middle high,3,Islam,No,Cat3,high,good,No-use
+49,low,middle low,5,Islam,Yes,Cat2,middle low,bad,No-use
+21,middle low,high,3,Islam,No,Cat3,middle low,good,No-use
+31,high,high,0,Other,Yes,Cat2,high,good,No-use
+42,high,high,4,Islam,No,Cat3,high,good,Long-term
+35,high,high,3,Islam,No,Cat1,high,good,Long-term
+31,high,high,4,Islam,No,Cat3,middle high,good,Long-term
+42,high,high,6,Islam,No,Cat1,middle high,good,Long-term
+49,middle high,high,4,Islam,No,Cat3,high,good,Long-term
+21,high,high,1,Islam,No,Cat1,middle high,good,Long-term
+28,middle high,high,3,Islam,No,Cat1,high,good,Long-term
+22,high,high,1,Islam,No,Cat1,middle high,good,Long-term
+36,high,high,3,Islam,Yes,Cat1,high,good,Long-term
+45,middle low,middle low,9,Islam,No,Cat3,middle high,good,Long-term
+40,high,high,4,Islam,No,Cat1,high,good,Long-term
+30,middle low,middle low,7,Islam,No,Cat3,high,good,Long-term
+35,high,high,5,Islam,Yes,Cat1,high,good,Long-term
+26,middle low,high,2,Islam,No,Cat1,high,good,Long-term
+45,high,high,3,Islam,No,Cat1,high,good,Long-term
+27,middle high,middle high,2,Islam,No,Cat3,high,good,Long-term
+32,high,high,4,Islam,No,Cat1,middle low,good,Long-term
+27,high,high,3,Islam,No,Cat1,middle high,good,Long-term
+28,high,high,2,Other,No,Cat1,high,good,Long-term
+30,high,high,3,Islam,No,Cat2,low,good,Long-term
+34,high,high,4,Islam,No,Cat2,high,good,Long-term
+26,middle high,high,3,Islam,No,Cat2,middle high,good,Long-term
+44,low,high,2,Islam,No,Cat1,middle high,good,Long-term
+29,high,high,3,Islam,No,Cat1,high,good,Long-term
+26,middle high,high,2,Islam,No,Cat3,middle high,good,Long-term
+41,high,high,8,Islam,No,Cat1,high,good,Long-term
+32,middle high,middle high,4,Islam,Yes,Cat3,middle high,good,Long-term
+23,middle high,low,1,Islam,Yes,Cat3,middle high,good,Long-term
+38,middle low,middle high,4,Islam,No,Cat1,middle low,good,Long-term
+22,high,high,1,Islam,Yes,Cat2,middle low,good,Long-term
+34,middle high,high,3,Other,No,Cat1,high,good,Long-term
+38,middle high,high,7,Other,No,Cat2,middle high,good,Long-term
+21,high,high,1,Islam,No,Cat1,high,good,Long-term
+43,low,middle high,4,Islam,No,Cat1,high,good,Long-term
+44,middle high,middle high,9,Islam,No,Cat1,low,good,Long-term
+24,high,high,1,Islam,No,Cat2,high,good,Long-term
+27,high,high,1,Islam,Yes,Cat3,middle high,good,Long-term
+34,middle high,high,4,Islam,No,Cat3,middle high,good,Long-term
+29,middle high,high,2,Islam,No,Cat1,high,good,Long-term
+26,high,high,1,Islam,Yes,Cat2,middle high,good,Long-term
+37,high,high,7,Islam,No,Cat1,high,good,Long-term
+21,middle high,high,3,Islam,No,Cat1,high,good,Long-term
+47,high,high,4,Other,No,Cat2,high,good,Long-term
+41,high,high,3,Islam,Yes,Cat2,middle high,good,Long-term
+29,middle high,high,3,Islam,No,Cat1,middle high,good,Long-term
+25,high,high,1,Islam,Yes,Cat1,high,good,Long-term
+33,high,high,2,Other,Yes,Cat1,middle high,good,Long-term
+23,high,high,1,Other,No,Cat1,high,good,Long-term
+32,high,high,4,Islam,No,Cat2,middle high,good,Long-term
+45,high,high,3,Islam,No,Cat1,high,good,Long-term
+37,high,high,4,Islam,No,Cat1,high,good,Long-term
+35,middle low,high,4,Other,No,Cat3,middle low,good,Long-term
+37,high,high,3,Islam,No,Cat3,high,good,Long-term
+35,high,high,5,Islam,No,Cat2,high,good,Long-term
+23,high,high,1,Islam,No,Cat3,middle high,good,Long-term
+38,middle low,middle low,8,Islam,No,Cat2,middle low,good,Long-term
+41,high,high,4,Other,Yes,Cat2,high,good,Long-term
+35,low,middle low,9,Islam,Yes,Cat3,low,good,Long-term
+29,high,high,3,Islam,No,Cat3,middle low,good,Long-term
+26,middle high,middle high,2,Islam,No,Cat1,middle high,good,Long-term
+22,middle high,middle high,2,Islam,No,Cat3,middle high,good,Long-term
+30,middle low,middle high,5,Islam,No,Cat3,low,bad,Long-term
+36,high,high,3,Islam,No,Cat3,middle high,good,Long-term
+26,middle high,high,3,Islam,No,Cat1,high,good,Long-term
+32,high,high,2,Islam,Yes,Cat3,high,good,Long-term
+39,high,high,3,Other,No,Cat2,high,good,Long-term
+29,middle high,high,3,Islam,No,Cat1,middle high,good,Long-term
+40,high,high,5,Islam,No,Cat1,middle high,good,Long-term
+43,middle high,middle high,6,Islam,Yes,Cat3,middle low,good,Long-term
+44,middle high,high,6,Islam,No,Cat3,middle low,good,Long-term
+24,high,high,2,Islam,No,Cat2,high,good,Long-term
+42,high,high,3,Islam,Yes,Cat1,high,good,Long-term
+33,middle high,high,2,Islam,No,Cat1,high,good,Long-term
+24,high,high,1,Other,No,Cat2,middle high,good,Long-term
+28,middle high,high,2,Other,No,Cat2,middle high,good,Long-term
+32,middle low,low,5,Islam,Yes,Cat2,middle low,good,Long-term
+26,middle low,middle low,4,Islam,No,Cat3,high,good,Long-term
+27,high,high,1,Islam,No,Cat1,high,good,Long-term
+41,middle high,high,3,Other,No,Cat2,high,good,Long-term
+28,middle high,high,2,Other,No,Cat3,middle high,good,Long-term
+23,high,high,1,Islam,Yes,Cat3,high,good,Long-term
+31,middle low,middle low,4,Islam,No,Cat4,middle high,bad,Long-term
+33,high,high,3,Other,No,Cat2,high,good,Long-term
+35,high,high,5,Islam,No,Cat1,high,good,Long-term
+39,middle high,high,5,Islam,No,Cat3,high,good,Long-term
+27,high,high,2,Islam,No,Cat1,middle high,good,Long-term
+48,high,high,3,Other,No,Cat1,high,good,Long-term
+25,middle high,low,2,Islam,Yes,Cat3,high,good,Long-term
+38,high,high,4,Islam,No,Cat2,high,good,Long-term
+48,high,high,7,Islam,Yes,Cat1,high,good,Long-term
+34,high,high,4,Islam,Yes,Cat3,middle high,good,Long-term
+36,middle high,middle high,4,Islam,No,Cat1,middle high,good,Long-term
+34,high,high,3,Islam,Yes,Cat3,high,good,Long-term
+42,high,high,4,Other,Yes,Cat2,high,good,Long-term
+45,middle high,middle high,5,Other,No,Cat1,middle high,good,Long-term
+37,high,high,4,Other,No,Cat2,high,good,Long-term
+38,high,high,3,Other,Yes,Cat2,high,good,Long-term
+42,middle high,middle high,4,Other,No,Cat3,high,good,Long-term
+42,middle low,high,5,Other,No,Cat2,middle high,good,Long-term
+41,high,high,6,Islam,No,Cat1,high,good,Long-term
+43,high,high,5,Other,No,Cat1,high,good,Long-term
+34,high,high,2,Other,Yes,Cat3,middle low,good,Long-term
+44,middle low,middle high,1,Other,No,Cat2,high,good,Long-term
+41,high,high,4,Other,No,Cat1,high,good,Long-term
+36,high,high,3,Islam,No,Cat1,high,good,Long-term
+34,low,middle low,5,Islam,No,Cat3,high,good,Long-term
+32,middle high,middle low,5,Islam,No,Cat3,middle high,good,Short-term
+34,middle high,middle high,6,Islam,No,Cat1,high,good,Short-term
+24,high,high,2,Islam,Yes,Cat3,middle high,good,Short-term
+21,middle high,middle high,1,Other,No,Cat3,middle low,good,Short-term
+38,high,middle high,9,Islam,No,Cat3,middle high,good,Short-term
+39,high,high,3,Islam,Yes,Cat1,high,good,Short-term
+35,middle low,middle low,6,Islam,Yes,Cat2,middle low,bad,Short-term
+30,middle low,middle high,7,Islam,No,Cat3,middle high,good,Short-term
+17,middle high,high,1,Islam,No,Cat3,middle high,good,Short-term
+32,middle low,high,3,Islam,No,Cat3,high,good,Short-term
+43,high,high,5,Other,No,Cat1,high,good,Short-term
+31,middle low,middle low,4,Islam,No,Cat3,middle high,good,Short-term
+24,low,middle low,3,Islam,No,Cat3,middle low,good,Short-term
+26,middle low,high,3,Islam,No,Cat1,middle high,good,Short-term
+35,middle high,high,4,Islam,Yes,Cat1,high,good,Short-term
+46,middle high,high,4,Islam,Yes,Cat3,high,good,Short-term
+29,middle low,middle high,3,Islam,No,Cat3,middle high,good,Short-term
+21,middle high,high,1,Islam,Yes,Cat3,high,good,Short-term
+31,high,high,5,Islam,Yes,Cat1,high,good,Short-term
+24,high,high,2,Islam,No,Cat3,middle high,good,Short-term
+24,middle low,high,3,Islam,No,Cat3,middle high,good,Short-term
+36,high,high,4,Islam,No,Cat1,middle high,good,Short-term
+37,middle low,middle high,9,Islam,No,Cat3,middle high,good,Short-term
+37,middle high,middle high,6,Islam,No,Cat3,middle high,good,Short-term
+37,middle high,middle high,11,Islam,No,Cat1,middle low,good,Short-term
+44,high,high,4,Other,No,Cat2,middle high,good,Short-term
+35,middle low,middle high,6,Islam,No,Cat2,middle high,good,Short-term
+25,high,high,3,Islam,No,Cat3,middle high,good,Short-term
+21,high,high,2,Islam,No,Cat2,middle high,good,Short-term
+24,low,middle low,3,Islam,No,Cat3,middle low,good,Short-term
+16,middle low,middle high,1,Islam,No,Cat3,low,good,Short-term
+21,middle high,middle low,1,Islam,No,Cat3,low,bad,Short-term
+25,middle low,high,2,Islam,No,Cat2,high,good,Short-term
+26,high,high,1,Islam,Yes,Cat2,high,good,Short-term
+43,high,high,2,Islam,No,Cat1,high,good,Short-term
+24,high,high,1,Islam,No,Cat1,high,good,Short-term
+30,middle high,high,3,Other,No,Cat3,middle high,good,Short-term
+30,middle low,middle high,3,Islam,No,Cat3,middle high,good,Short-term
+26,high,high,2,Islam,No,Cat3,middle high,good,Short-term
+29,middle low,high,4,Islam,No,Cat3,middle low,good,Short-term
+24,middle high,high,4,Islam,No,Cat3,low,good,Short-term
+29,middle high,middle high,2,Islam,No,Cat3,middle low,good,Short-term
+29,low,middle low,1,Islam,No,Cat3,middle high,good,Short-term
+22,high,high,1,Islam,No,Cat2,high,good,Short-term
+30,middle high,middle high,4,Islam,Yes,Cat3,middle low,good,Short-term
+24,high,high,1,Islam,No,Cat2,middle high,good,Short-term
+25,high,high,2,Islam,No,Cat1,middle low,good,Short-term
+44,high,high,5,Islam,Yes,Cat1,high,good,Short-term
+28,middle low,middle high,3,Islam,No,Cat2,high,good,Short-term
+22,middle high,middle high,1,Islam,No,Cat3,middle low,good,Short-term
+30,middle low,middle low,6,Islam,Yes,Cat2,middle high,good,Short-term
+25,middle high,high,3,Islam,No,Cat2,high,good,Short-term
+25,high,high,2,Islam,No,Cat3,middle high,good,Short-term
+33,high,high,2,Islam,Yes,Cat1,high,good,Short-term
+33,middle high,middle high,4,Islam,Yes,Cat2,middle high,good,Short-term
+26,middle high,middle high,2,Islam,Yes,Cat2,middle low,good,Short-term
+29,middle high,high,5,Islam,No,Cat3,middle high,good,Short-term
+32,middle high,middle high,4,Islam,No,Cat2,low,good,Short-term
+30,high,high,1,Islam,Yes,Cat3,middle low,good,Short-term
+37,high,high,1,Other,No,Cat1,high,good,Short-term
+31,low,middle low,4,Islam,No,Cat3,middle high,good,Short-term
+36,low,middle low,4,Islam,No,Cat3,low,bad,Short-term
+36,middle low,middle low,7,Islam,Yes,Cat2,middle low,bad,Short-term
+26,middle high,high,2,Islam,Yes,Cat2,high,good,Short-term
+36,high,high,3,Islam,No,Cat1,high,good,Short-term
+28,high,high,1,Islam,No,Cat2,high,good,Short-term
+33,high,high,5,Islam,No,Cat3,middle high,good,Short-term
+25,middle high,high,2,Islam,Yes,Cat2,high,good,Short-term
+31,high,high,2,Other,No,Cat1,high,good,Short-term
+38,high,high,4,Islam,Yes,Cat1,high,good,Short-term
+35,low,middle low,5,Islam,No,Cat3,middle high,good,Short-term
+33,high,high,3,Other,Yes,Cat2,high,good,Short-term
+30,middle low,middle low,2,Islam,No,Cat3,middle low,good,Short-term
+20,middle high,middle high,2,Islam,No,Cat2,middle low,bad,Short-term
+18,middle high,middle high,1,Islam,No,Cat2,middle low,good,Short-term
+30,middle high,middle low,3,Islam,No,Cat3,middle high,good,Short-term
+35,middle low,middle high,6,Islam,Yes,Cat3,middle low,good,Short-term
+22,middle high,middle high,2,Islam,No,Cat3,low,good,Short-term
+28,middle low,high,7,Islam,No,Cat3,middle high,good,Short-term
+21,middle high,middle high,1,Islam,No,Cat3,low,good,Short-term
+27,middle high,high,4,Islam,No,Cat3,high,good,Short-term
+30,middle high,high,3,Islam,No,Cat3,middle high,good,Short-term
+25,middle high,high,2,Islam,No,Cat3,middle high,good,Short-term
+26,high,high,3,Islam,No,Cat3,middle low,good,Short-term
+37,middle low,high,5,Islam,No,Cat1,high,good,Short-term
+47,low,middle high,9,Islam,Yes,Cat3,middle high,good,Short-term
+36,low,low,5,Islam,No,Cat3,middle high,good,Short-term
+36,middle low,middle high,6,Islam,No,Cat2,high,good,Short-term
+36,high,high,3,Islam,No,Cat2,high,good,Short-term
+28,high,high,4,Islam,No,Cat3,high,good,Short-term
+21,high,high,2,Islam,No,Cat3,middle high,good,Short-term
+25,high,high,2,Islam,No,Cat2,middle high,good,Short-term
+30,middle high,high,3,Islam,No,Cat3,high,good,Short-term
+22,middle high,middle high,3,Islam,No,Cat3,middle high,good,Short-term
+23,high,middle high,2,Islam,Yes,Cat2,middle high,good,Short-term
+36,middle high,high,9,Islam,No,Cat3,high,good,Short-term
+28,high,middle high,2,Islam,No,Cat3,middle low,good,Short-term
+46,middle low,middle low,5,Islam,No,Cat2,high,good,Short-term
+47,high,high,5,Islam,No,Cat3,middle low,good,Short-term
+41,low,high,5,Islam,Yes,Cat2,high,good,Short-term
+44,high,high,5,Islam,No,Cat3,high,good,Short-term
+34,middle low,middle high,3,Other,No,Cat3,middle low,bad,Short-term
+37,middle low,middle high,6,Islam,No,Cat3,high,good,Short-term
+34,high,high,2,Other,No,Cat1,high,good,Short-term
+22,middle low,high,2,Islam,No,Cat3,middle low,good,Short-term
+33,middle low,middle high,4,Islam,No,Cat2,middle high,good,Short-term
+21,middle high,high,3,Islam,No,Cat3,low,good,Short-term
+31,high,high,4,Islam,Yes,Cat3,high,good,Short-term
+41,high,middle high,5,Islam,Yes,Cat3,high,good,Short-term
+30,high,middle high,4,Islam,No,Cat3,middle high,good,Short-term
+32,middle low,high,5,Islam,No,Cat3,high,good,Short-term
+27,high,high,2,Other,Yes,Cat2,high,good,Short-term
+26,high,high,1,Other,Yes,Cat2,high,good,Short-term
+42,high,high,5,Other,No,Cat2,high,good,Short-term
+24,high,high,1,Islam,No,Cat1,middle high,good,Short-term
+37,high,high,6,Islam,No,Cat1,high,good,Short-term
+30,middle low,middle high,5,Islam,Yes,Cat3,high,good,Short-term
+27,high,high,1,Islam,No,Cat1,high,good,Short-term
+34,middle low,high,6,Islam,No,Cat3,middle high,good,Short-term
+32,middle high,high,5,Other,No,Cat1,high,good,Short-term
+28,high,high,1,Other,Yes,Cat2,high,good,Short-term
+29,middle high,middle high,1,Other,Yes,Cat2,high,good,Short-term
+42,high,high,3,Other,No,Cat2,high,good,Short-term
+21,middle low,middle low,0,Other,No,Cat4,high,good,Short-term
+22,high,high,2,Islam,No,Cat3,high,good,Short-term
+36,high,high,3,Other,No,Cat3,high,good,Short-term
+45,middle low,middle high,3,Other,Yes,Cat2,high,good,Short-term
+34,high,high,2,Other,Yes,Cat2,high,good,Short-term
+35,middle low,middle high,5,Islam,No,Cat3,middle high,good,Short-term
+19,high,high,1,Islam,No,Cat2,middle high,good,Short-term
+27,high,high,4,Islam,No,Cat3,middle high,good,Short-term
+37,middle low,high,4,Islam,Yes,Cat2,middle high,good,Short-term
+26,middle high,middle low,4,Islam,No,Cat3,high,good,Short-term
+28,low,middle high,5,Islam,No,Cat3,high,good,Short-term
+31,middle high,high,5,Islam,No,Cat1,high,good,Short-term
+32,middle low,middle low,6,Islam,No,Cat2,middle high,good,Short-term
+40,middle low,middle low,4,Other,Yes,Cat2,high,good,Short-term
+27,middle high,middle high,5,Islam,No,Cat2,high,good,Short-term
+27,middle low,middle low,3,Islam,No,Cat2,middle low,bad,Short-term
+37,high,high,5,Other,Yes,Cat2,high,good,Short-term
+22,high,middle high,1,Islam,No,Cat2,middle low,good,Short-term
+27,high,high,4,Islam,No,Cat1,middle low,bad,Short-term
+21,high,high,1,Other,No,Cat2,high,good,Short-term
+30,low,middle high,2,Islam,No,Cat3,high,good,Short-term
+23,middle low,middle low,1,Islam,No,Cat2,high,good,Short-term
+25,middle low,high,3,Islam,No,Cat1,middle high,good,Short-term
+42,middle low,high,6,Islam,No,Cat2,high,good,Short-term
+29,high,high,3,Islam,No,Cat1,high,good,Short-term
+33,high,high,2,Islam,Yes,Cat2,high,good,Short-term
+33,high,high,3,Islam,No,Cat1,high,good,Short-term
+39,middle high,middle high,8,Islam,Yes,Cat1,high,good,Short-term
+33,middle high,middle high,4,Islam,Yes,Cat2,middle low,good,Short-term
+17,middle high,middle high,1,Islam,No,Cat2,high,good,Short-term
