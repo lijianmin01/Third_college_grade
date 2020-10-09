@@ -30,7 +30,7 @@ if __name__ == '__main__':
     from sklearn.model_selection import RandomizedSearchCV
 
     # Number of trees in random forest
-    n_estimators = [int(x) for x in np.linspace(start=10, stop=400, num=5)]
+    n_estimators = [int(x) for x in np.linspace(start=10, stop=1000, num=5)]
     # Number of features to consider at every split
     max_features = ['auto', 'sqrt']
     # Maximum number of levels in tree
@@ -65,6 +65,8 @@ if __name__ == '__main__':
 
 
     print(rf_random.best_params_)
+
+    # {'n_estimators': 257, 'min_samples_split': 7, 'min_samples_leaf': 9, 'max_features': 'auto', 'max_depth': None, 'bootstrap': True}
 
 
 
