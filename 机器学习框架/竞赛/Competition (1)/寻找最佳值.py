@@ -21,7 +21,7 @@ def split_data(xx,yy):
         class_list.append([])
 
     cnt_array = np.array([i for i in range(len(yy))])
-    # 算了，不想复杂了，直接当成两类别来随机划分吧
+    # 算了，不想复杂了，直接当成三类别来随机划分吧
     class_0 = cnt_array[np.where(yy[cnt_array] == 0)]
     class_1 = cnt_array[np.where(yy[cnt_array] == 1)]
     class_2 = cnt_array[np.where(yy[cnt_array] == 2)]
